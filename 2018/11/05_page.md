@@ -37,7 +37,7 @@
 - Server.xml 수정
   + <Context /> 추가
 - 등록한 Service 시작
-- 동작 확인
+- Tomcat 동작 확인
 
 
 #### iterator(반복자)란?
