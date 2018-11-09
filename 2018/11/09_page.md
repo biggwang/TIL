@@ -45,12 +45,9 @@ OS를 공부하면서 알게 된 세마포어와 뮤텍스가 생각나서 이�
 
 - 각각 서버별 스케줄링을 나누어서 할 수 있음 (클러스터링)  
 
-## 앞으로 남은 것
-- spring batch 연동하여 spring batch를 사용함으로써 좋은점 알아내기
-- spring partitioning 사용하여 데이터 merge 속도 개선
-
-
 ****
 
-## 해볼 것
-* ThreadPool 단점을 보안 해 줄 수 있다는 ForkJoinPool을 사용해서 단점이 극복 되는지 확인해보자
+## 앞으로 남은 것
+- ThreadPool 단점을 보안 해 줄 수 있다는 ForkJoinPool을 사용해서 단점이 극복 되는지 확인해보자
+- spring batch 연동하여 spring batch를 사용함으로써 좋은점 알아내기
+- spring partitioning 사용하여 데이터 merge 속도 개선
