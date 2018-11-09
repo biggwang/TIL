@@ -32,11 +32,23 @@ OS를 공부하면서 알게 된 세마포어와 뮤텍스가 생각나서 이�
 
 
 ## Quartz 클러스터링 사용기
-1서버 A배치 Running 2서버 Standby  
--> 1서버 was shutdown 2서버 1서버 shutdown detected 하여 2서버 에서 A 배치 Running  
--> 1서버 was start(복구됨)  
--> 2서버 A배치 중지  
--> 1서버 다시 A배치 running
+드디어 성공..!! 하고 있는 프로젝트에 quartz를 선택한 이유는 바로 클러스터링 기능때문이었다.  
+모호하기만 했던 내용이 실제 눈앞에서 동작 되니까 너무 재미있었다.  기능은 아래와 같다.  
+- 서버 이중화 (1,2 서버) 되어 있을 때 1번서버 죽으면 2번서버가 1번 서버것 까지 맡아 스케줄링 해줌  
+  + 상세동작  
+  -> 1서버 shutdown  
+  -> 2서버 shutdown detected  
+  -> 2서버 1서버것 까지 같이 running  
+  -> 1서버 was start (복구됨)  
+  -> 2서버 1서버에서 맡은것 중지  
+  -> 1서버에서 맡았던 배치 다시 running  
+
+- 각각 서버별 스케줄링을 나누어서 할 수 있음 (클러스터링)  
+
+## 앞으로 남은 것
+- spring batch 연동하여 spring batch를 사용함으로써 좋은점 알아내기
+- spring partitioning 사용하여 데이터 merge 속도 개선
+
 
 ****
 
