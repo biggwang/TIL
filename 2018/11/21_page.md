@@ -29,6 +29,7 @@
 ### 서로 다른 브랜치 특정 파일 merge
 > $ git add . (먼저 stage 올려 놔야 병합하든 비교하든 할 수 있음)
 > $ git checkout -p stress src/main/java/com/coopnc/migrator/job/BatchJob.java  (stress 브랜치 특정파일과 현재 브랜치 파일 merge)
+> 현재 수정된 파일이 아닌 commit 기준으로 비교하는 것 같은데 확인 
 
 ### 서로 다른 브랜치에 특정 파일 비교 방법
 > $ git add . (먼저 stage 올려 놔야 병합하든 비교하든 할 수 있음)
