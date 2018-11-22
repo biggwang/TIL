@@ -26,9 +26,11 @@
 
 ## Git 경험 정리
 
-### A 브랜치에 특정 파일을 B 브랜치 같은 파일과 merge 방법
+### 서로 다른 브랜치 특정 파일 merge
 > $ git add . (먼저 stage 올려 놔야 병합하든 비교하든 할 수 있음)
 > $ git checkout -p stress src/main/java/com/coopnc/migrator/job/BatchJob.java  (stress 브랜치 특정파일과 현재 브랜치 파일 merge)
 
 ### 서로 다른 브랜치에 특정 파일 비교 방법
-커밋기준(index) 기준으로 비교하는듯..
+> $ git add . (먼저 stage 올려 놔야 병합하든 비교하든 할 수 있음)
+> $ git diff developing src/main/java/com/coopnc/migrator/job/BatchJob.java (현재 브랜치와 developing 브랜치와 diff)
+
