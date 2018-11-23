@@ -7,6 +7,8 @@ $ git diff stash@{0} branch name
 ### Stash List에 있는 특정 stash 파일 목록 보기
 $ git stash show stash@{7}
 
+### git log graph 형식 보기
+$ git log --branches --graph --decorate --oneline--oneline
 
 ### 브랜치 명명법 
 
