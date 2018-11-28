@@ -6,9 +6,9 @@
 - Local Branch: Staging Area에서 commit 된 영역
 
 ### diff 명령어
-$ git diff:  working tree에서 변경전 변경후 파일과 비교
-$ git diff --cached: 변경전 파일과 index에 올라간 파일과 비교
-$ git diff stash@{0}: 현재 브랜치에서 특정 stage 영역에 있는 파일과 비교
+$ git diff:  working tree에서 변경전 변경후 파일과 비교  
+$ git diff --cached: 변경전 파일과 index에 올라간 파일과 비교  
+$ git diff stash@{0}: 현재 브랜치에서 특정 stage 영역에 있는 파일과 비교  
 
 ### Stash List에 있는 특정 stash 파일 목록 보기
 $ git stash show stash@{7}
