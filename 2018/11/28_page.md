@@ -1,4 +1,9 @@
-$ git checkout -p stash@{0} src/main/java/com/coopnc/migrator/event/AdminEventListener.java
+## git 명령어: 특정 stash에 있는 파일과 diff 하기
+
+### $ git checkout -p stash@{index} filepath
+
+### 
+~~~ java
 diff --git b/src/main/java/com/coopnc/migrator/event/AdminEventListener.java a/src/main/java/com/coopnc/migrator/event/AdminEventListener.java
 index 9e37d86..8262ca6 100644
 --- b/src/main/java/com/coopnc/migrator/event/AdminEventListener.java
@@ -11,6 +16,7 @@ index 9e37d86..8262ca6 100644
  import org.quartz.Trigger;
  import org.quartz.Trigger.TriggerState;
  import org.quartz.TriggerBuilder;
+ 
 Apply this hunk to index and worktree [y,n,q,a,d,/,e,?]? y
 <stdin>:9: trailing whitespace.
 import org.quartz.SimpleScheduleBuilder;
@@ -18,3 +24,4 @@ warning: 1 line adds whitespace errors.
 <stdin>:9: trailing whitespace.
 import org.quartz.SimpleScheduleBuilder;
 warning: 1 line adds whitespace errors.
+~~~
