@@ -2,7 +2,8 @@
 
 ### $ git checkout -p stash@{index} filepath
 
-### 
+### 결과
+
 ~~~ java
 diff --git b/src/main/java/com/coopnc/migrator/event/AdminEventListener.java a/src/main/java/com/coopnc/migrator/event/AdminEventListener.java
 index 9e37d86..8262ca6 100644
@@ -17,7 +18,7 @@ index 9e37d86..8262ca6 100644
  import org.quartz.Trigger.TriggerState;
  import org.quartz.TriggerBuilder;
  
-Apply this hunk to index and worktree [y,n,q,a,d,/,e,?]? y
+Apply this hunk to index and worktree [y,n,q,a,d,/,e,?]? y // stash에 있는 내용으로 바뀜
 <stdin>:9: trailing whitespace.
 import org.quartz.SimpleScheduleBuilder;
 warning: 1 line adds whitespace errors.
