@@ -48,6 +48,10 @@
 > Stash List에 있는 특정 stash 파일 목록 보기
 
 ## diff
+
+### git diff --name-status master
+> 변경된 파일리스트만 출력
+
 ### git checkout -p stash@{index} filepath
 > 특정 stash에 있는 파일과 비교 후 병합, 덮어쓰기
 
