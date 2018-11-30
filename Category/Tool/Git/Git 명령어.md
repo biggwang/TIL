@@ -6,7 +6,7 @@
 
 # 브랜치 명명법
 
-## release 브랜치 (
+## release 브랜치
 - develop 브랜치로부터 생성하는 브랜치이다.
 - 명명규칙: release/X.X.X
 - 브랜치 생성 후에는 버그픽스만 반영한다.
@@ -49,8 +49,11 @@
 
 ## diff
 
-### git diff --name-status master
-> 변경된 파일리스트만 출력
+### git diff --name-status 
+> 변경된 파일 리스트 출력
+
+### git diff --name-status branch_name1 branch_name2 
+> 서로 다른 브랜치 간 변경 파일 리스트 출력
 
 ### git checkout -p stash@{index} filepath
 > 특정 stash에 있는 파일과 비교 후 병합, 덮어쓰기
