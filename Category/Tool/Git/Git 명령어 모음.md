@@ -1,4 +1,6 @@
 ## .gitIgnore
+- .gitIgnore 파일에 추가만 해도 ignore 된다. 다만 git rm --cached 하는 이유는 이미 remote 저장소에 올려지 파일을 삭제하기 위함이다.
+
 특정 파일 여기서 a.txt로 가정하고 업데이트 하고 싶으면
 - vim 편집기로 수정후
 - git rm --cached a.txt (git rm --cached . 하게 되면 모든 파일이 delete 되서 특정 파일만 지정함, --cached 옵션은 로컬은 삭제 않고 remote 저장소에 파일을 삭제하겠다는 의미 )
