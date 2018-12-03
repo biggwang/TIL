@@ -38,8 +38,20 @@
 
 
 ## log
+
+### git log -p --word-diff filepath
+> commit 별 특정 파일 히스토리 라인별 바뀐부분 조회
+
 ### git log --branches --graph --decorate --oneline--oneline
 > git log graph 형식 보기
 
 ### git log --oneline --grep 찾을내용
 > 커밋 로그 간편 조회 후 키워드 탐색
+
+## reflog
+Git은 없어지는것이 없다. branch나 commit을 되돌리고 싶으면 reflog를 통해 되돌릴 수 있다.
+
+## Git 명령어 이어 쓰기
+$ git status |
+> > git add . |
+> > git commit -m 'test'
