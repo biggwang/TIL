@@ -65,3 +65,8 @@ Git은 없어지는것이 없다. branch나 commit을 되돌리고 싶으면 ref
 ### git stash show stash@{8}
 > 특정 index영역에 파일 내용 보기
 
+## 충돌시
+
+### 특정 커밋으로 파일 되돌리기
+> git checkout commitId file_path
+
