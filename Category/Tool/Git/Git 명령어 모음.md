@@ -15,7 +15,11 @@ $ git status |
 
 ## stash
 ### git stash show stash@{index}
-> Stash List에 있는 특정 stash 파일 목록 보기
+> stash List에 있는 특정 stash 파일 목록 보기
+
+### git stash show -p | git apply -R 
+> stash apply 한거 되돌리기 [참고](https://goo.gl/6tVzeY)
+
 
 ## diff
 
