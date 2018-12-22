@@ -1,6 +1,6 @@
 
 # :book: 개발 일지 
-[![Version](https://img.shields.io/badge/version-2018.12.22-red.svg)](./version)  
+[![Version](https://img.shields.io/badge/version-2018.12.22-red.svg)]()  
 
 에피파니(Epiphany) 적인 경험, 반성, 개념, Snippet 등 머릿속 추상적인 것들이나 배워야 할 내용을 글로 배출하면서 체화시켜 어제보다 발전한 나를 만드는 도구
 
