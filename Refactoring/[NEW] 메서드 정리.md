@@ -13,7 +13,7 @@
 임시변수를 메소드로 추출한다면 여기저기서 함수내 호출로 사용 가능하여 그만큼 코드 길이도 감소 되는 효과가 있다.
 
 ### Before
-~~~ java
+~~~java
 int average = total / cnt;
 if(average > 10)
     return average * 10;
@@ -22,7 +22,7 @@ else
 ~~~
 
 ### After
-~~~ java
+~~~java
 // 지역변수를 함수로 빼서 지역변수에 대한 코드가 줄어들었음
 if(getAverage() > 10)
     return getAverage() * 10;
@@ -35,16 +35,16 @@ else
 ## 직관적 임시변수 사용
 수식이 너무 복잡하여 가독성이 떨어지면 직관적인 임시변수에 대입하여 가독성을 높인다.
 
-Before
-~~~ java
+### Before
+~~~java
 // 조건문 가독성 떨어짐..
 if(platform.toUpperCase().indexOf("MAC") > -1){
 
 }
 ~~~
 
-After
-~~~ java
+### After
+~~~java
 final boolean isMacOs = platform.toUpperCase().indexOf("MAC") > -1;
 if(isMacOs){
 
@@ -66,8 +66,8 @@ void aMethod(Object obj1){
 ## 메서드를 메서드 객체로 전환
 지역변수가 너무 많이 메서드를 쪼갤수 없으면 해당 메서드를 클래스로 만들어 각 지역변수를 멤버변수로 하여 만든 클래스내에서 메서드를 쪼개는 방식
 
-Before
-~~~ Java
+### Before
+~~~Java
 int aMethod(int a, int b, int c, int d){
     int localA = (a * b * c) / d;
     int localB = (a + b) * d / c;
@@ -81,8 +81,8 @@ int aMethod(int a, int b, int c, int d){
 ~~~
 
 
-After
-~~~ Java
+### After
+~~~Java
 class A{
 
     private int a;
