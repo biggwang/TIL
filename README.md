@@ -16,6 +16,7 @@
   - **[APPLIYED]** : 실무 적용 해보았을 때
 
 # :pencil2: 작성 포맷
+
 ~~~
 **** 
 ## :mag: 
@@ -29,7 +30,7 @@
 :heavy_check_mark: 발생한 문제들 두려워 말고 재밋는 문제 풀이로 생각하였는가
 
 ## :computer: 코딩
-:heavy_check_mark: 내가 작성한 코드가 정말 안전하고 테스트 통과 된 코드 인가
+:heavy_check_mark: 내가 작성한 코드가 정말 안전하고 테스트 통과 된 코드 인가  
 :heavy_check_mark: 남을 배려하며 책임감 있게 작성하였는가  
 :heavy_check_mark: 발생 할 수 있는 모든 문제들 최대한 시뮬레이션(생각) 하였는가
 
@@ -50,4 +51,4 @@
 
 
 ## Maven
-- [기본] 메이븐 사용법 정리](https://goo.gl/Q4eF4X)
+- [ [기본] 메이븐 사용법 정리](https://goo.gl/Q4eF4X)
