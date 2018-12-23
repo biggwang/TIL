@@ -17,19 +17,18 @@
 
 # :pencil2: 작성 포맷
 
-~~~
-**** 
+~~~ 
 ## :mag: 
 ## :mag: 지식 습득(체화) 확인 질문
 ~~~
 
-# 나의 태도 확인 
+# :four_leaf_clover: 나의 태도 확인 
 
-## :muscle: 메타
+## 메타
 :heavy_check_mark: 의식적이고 깨어있는 생각으로 항상 더 나은 방법은 없는지 생각하였는가  
 :heavy_check_mark: 발생한 문제들 두려워 말고 재밋는 문제 풀이로 생각하였는가
 
-## :computer: 코딩
+## 코딩
 :heavy_check_mark: 내가 작성한 코드가 정말 안전하고 테스트 통과 된 코드 인가  
 :heavy_check_mark: 남을 배려하며 책임감 있게 작성하였는가  
 :heavy_check_mark: 발생 할 수 있는 모든 문제들 최대한 시뮬레이션(생각) 하였는가
