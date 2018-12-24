@@ -44,6 +44,10 @@
 ## Design Pattern
 - [Factory Method Pattern](https://goo.gl/7svAUE)
 
+## Refactoring
+- [메서드 정리](https://goo.gl/q6yL6L)
+- [조건문 ](https://goo.gl/q6yL6L)
+
 ## Git
 - [Git 구조](https://goo.gl/df3CTC)
 - [Git 명령어 모음](https://goo.gl/N3gRgf)
