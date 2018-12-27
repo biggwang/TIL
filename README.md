@@ -46,7 +46,7 @@
 
 ## Refactoring
 - [메서드 정리](https://goo.gl/q6yL6L)
-- [조건문 간결화](https://goo.gl/q6yL6L)
+- [조건문 간결화](https://goo.gl/yzyrgM)
 
 ## Git
 - [Git 구조](https://goo.gl/df3CTC)
