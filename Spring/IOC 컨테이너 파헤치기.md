@@ -1,1 +1,0 @@
-[참고](https://goo.gl/DtQoDf) 하면서 이해한 내용 정리하기
