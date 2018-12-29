@@ -60,7 +60,7 @@
 ## Spring
 - [LearningQueue](https://goo.gl/CsvBXa)
 - [Constructor Injection권장 이유](https://goo.gl/YHxMhn)
-- [IOC 컨테이너 구성 방법](https://goo.gl/trJx7t)
-- [IOC 컨테이너 파헤치기](https://goo.gl/aRXAua)
+- [Spring Context 구성 전략](https://goo.gl/trJx7t)
+- [Spring Container 파헤 치기](https://goo.gl/aRXAua)
 - [짤막 지식](https://goo.gl/aoCskp)
 
