@@ -23,3 +23,7 @@
 
 
 ## Strategy Pattern
+
+
+
+## 리펙토링 사례 - 클래스
