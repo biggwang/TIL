@@ -9,7 +9,7 @@
 
 이러한 문제를 해결 할 수 있도록 Junit과 Spring에서 모두 제공하고 있다. 아래를 보자
 
-#### @RunWith(SpringJUnit4ClassRunner.class)
+### @RunWith(SpringJUnit4ClassRunner.class)
 
 > <dependency>
     <groupId>org.springframework</groupId>
@@ -18,4 +18,13 @@
     <scope>test</scope>
 </dependency>
 
-SpringJUnit4ClassRunner 클래스를 import를 시키기 위해서는 
+SpringJUnit4ClassRunner 역활은 테스트용 Spring Container를 제공한다는 의미이며 import를 시키기 위해서는 test 하위 패키지에서 작성해야 한다.  
+
+### @ContextConfiguration(classes={ContextDataSourceConfigTest.class})
+필자는 DB 설정 정보를 java config 방식으로 하여서 @Configuration한 클래스를 위와 같이 선언하여 정보를 가져올 수 있도록 하였다. 
+
+지금 까지 말한 내용에 코드는 아래와 같다.
+
+![junit-use1](../img/junit-use1.png)
+
+다음 포스팅에서는 특정 클래스에 대한 단위테스트 하는 과정을 통해 좀 더 junit에 대해 알아 보도록 하겠다.
