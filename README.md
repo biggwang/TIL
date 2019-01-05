@@ -1,6 +1,6 @@
 
 # :book: 개발 일지 
-[![Version](https://img.shields.io/badge/version-2019.01.04-red.svg)]()  
+[![Version](https://img.shields.io/badge/version-2019.01.05-red.svg)]()  
 
 - 에피파니(Epiphany) 적인 경험, 반성, 개념, Snippet 등 머릿속 추상적인 것들이나 배워야 할 내용을 글로 배출하면서 체화시켜 어제보다 발전한 나를 만드는 도구
 - 하루에 모든 Input이 모이는 장소
@@ -17,13 +17,6 @@
 - 📗[POSTING]: 블로그 포스팅
 - 📘[APPLIYED]: 지식이 활용 됬을 때
 - 🔍[SEARCH]: 추가 조사가 필요 할 때
-
-# :pencil2: 작성 포맷
-
-~~~ 
-## :mag: 
-## :mag: 지식 습득(체화) 확인 질문
-~~~
 
 # :four_leaf_clover: 오늘 하루 체크 피드백
 매일 하루를 얼마나 성실히 잘 보냈는지 아래 템플릿 바탕으로 체크하여 파일 제목에 점수를 매겨 보자
@@ -80,6 +73,7 @@ ex)
 - [운영체제 구조](https://goo.gl/seyj6M)
 - [운영체제 스케줄링 기법 정리](https://goo.gl/seyj6M)
 - [운영체제 역사](https://goo.gl/FAyw27)
+- [코드가 실행되는 원리](https://goo.gl/RgPzUi)
 
 ## Design Pattern
 - [Factory Method Pattern](https://goo.gl/7svAUE)
@@ -87,12 +81,15 @@ ex)
 ## Refactoring
 - [메서드 정리](https://goo.gl/q6yL6L)
 - [조건문 간결화](https://goo.gl/yzyrgM)
+- [분류 코드를 클래스로 치환](https://goo.gl/1axZJx)
 
 ## Git
+- [Learning-Queue](https://goo.gl/uutXcG)
 - [Git 구조](https://goo.gl/df3CTC)
 - [Git 명령어 모음](https://goo.gl/N3gRgf)
 - [Git 브랜치 전략](https://goo.gl/K1Vsnh)
-
+- [동일 branch에서 연속 Commit 하였을 때 생기는 문제](https://goo.gl/YUvfNr)
+- [cherry-pick, rebase, merge 각각의 용도 조사 및 실전 적용](https://goo.gl/N5eeku)
 
 ## Maven
 - [ [기본] 메이븐 사용법 정리](https://goo.gl/Q4eF4X)
@@ -104,3 +101,5 @@ ex)
 - [Spring Container 파헤 치기](https://goo.gl/aRXAua)
 - [짤막 지식](https://goo.gl/aoCskp)
 
+## Junit
+- [Junit으로 단위테스트를 적용해 보자](https://goo.gl/ghhc5j)
