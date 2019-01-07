@@ -1,10 +1,10 @@
 ## 7 Habits of Successful Software Engineers
 
-In this video, I'm ~~gonna~~ going to talk about `what` `I think are the habit`s  of a` succesful software enginner.  
+In this video, I'm ~~gonna~~ going to talk about `what I think are the habit`s  of a succesful software enginner.  
 
 so If you`re` interested please stay ~~you~~ `tuned`.   
 
-First of all the habits `that` I'm ~~going to~~ `gonna` ~~last~~ `list` ~~year~~ `here` apply to ~~be~~ `being`  `a` successful software engineer.
+First of all the habits `that` I'm ~~going to~~ `gonna` ~~last~~ `list` ~~year~~ `here` apply to ~~be~~ `being`  `a` successful software engineer.  
 Not just ~~and~~ `a` corder.  
 
 Software engineer`ing` is way beyond just ~~a corder~~ `coding.`  but `that is a` topic for `a` ~~home~~ `whole` ~~your~~ `new` video.
@@ -12,7 +12,7 @@ Let`s get started.
 
 When I first started working in the ~~fill~~ `field`.  
 
-I had ~~and~~ `an` extreme ~~urage~~ `urge` to start cording ~~write~~ `right` ~~and~~ `when I was` given a project `a` problem ~~it's~~ ~~picture~~ a feature to ~~impormat~~`implement`.d
+I had ~~and~~ `an` extreme ~~urage~~ `urge` to start cording ~~write~~ `right` ~~and~~ `when I was` given a project `a` problem ~~it's~~ ~~picture~~ a feature to ~~impormat~~`implement`.
 
 
 
