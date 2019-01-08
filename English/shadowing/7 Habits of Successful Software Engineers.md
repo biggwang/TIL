@@ -14,6 +14,8 @@ When I first started working in the ~~fill~~ `field`.
 
 I had ~~and~~ `an` extreme ~~urage~~ `urge` to start cording ~~write~~ `right` ~~and~~ `when I was` given a project `a` problem ~~it's~~ ~~picture~~ a feature to ~~impormat~~`implement`.
 
+Because I found that If I'm not coding I'm just not be improductive.
+
 
 
 
