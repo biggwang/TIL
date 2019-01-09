@@ -14,9 +14,16 @@ When I first started working in the ~~fill~~ `field`.
 
 I had ~~and~~ `an` extreme ~~urage~~ `urge` to start cording ~~write~~ `right` ~~and~~ `when I was` given a project `a` problem ~~it's~~ ~~picture~~ a feature to ~~impormat~~`implement`.
 
+(44s)
 Because I found that If I'm not coding I'm just not be improductive.
+But the   that most likely the software g bulit in is not good be bulit fully by you scratch.
+You're most likely being wokring an something that need to fit in into big system architecture.
 
 
+### 1. Understand the scope and the problem first before coding.
+And successful soft engineer do is than first fully understand the scope of problem and only than wants fully understand what is exactly in your solve only than you should start coding.
+
+(1m 20s)
 
 
 ## 정리
