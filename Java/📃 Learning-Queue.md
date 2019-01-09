@@ -3,7 +3,7 @@
 
 ## Question
 - 멀티스레드 환경에서 등록된 Bean들은 어떻게 이용될까?
-- 여려 요청이 들어 올때 각 내부 동작(WAS, Spring, 스레드 등) 파악
+-
 
 ## Learning Queue
 - 
