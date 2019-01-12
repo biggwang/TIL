@@ -1,6 +1,6 @@
 ## 7 Habits of Successful Software Engineers
 
-In this video, I'm ~~gonna~~ going to talk about `what I think are the habit`s  of a succesful software enginner.  
+In this video, I'm ~~gonna~~ `going to` talk about `what I think are the habit`s  of a succesful software enginner.  
 
 so If you`re` interested please stay ~~you~~ `tuned`.   
 
@@ -19,12 +19,43 @@ Because I found that If I'm not coding I'm just not be improductive.
 But the   that most likely the software g bulit in is not good be bulit fully by you scratch.
 You're most likely being wokring an something that need to fit in into big system architecture.
 
+****
 
 ### 1. Understand the scope and the problem first before coding.
 And successful soft engineer do is than first fully understand the scope of problem and only than wants fully understand what is exactly in your solve only than you should start coding.
 
-(1m 20s)
+****
 
+(1m 20s)
+### Document as musch as you can
+This ~~princess tow point two~~ `bring us to point to`. Successful software engineer`s` are really good ~~a~~ `at` documentation.
+
+
+Most likely you're not ~~good be an~~ `going to be the` only one working on the project.
+There might be other ~~junior~~ `engineer` or designer`s` or data scientist`s` `or` product managers involve`d`.
+
+### 표현 정리
+
+#### This brings us ~
+> 디!쓰 브링 쓰어쓰!  
+
+연음 때문에 정말 안들렸지만 반복하니 들린다. 특히 brings us 's(쓰)'가 확실히 안들리는데 계속 익숙해 지자
+
+#### Successful
+> 썩쎄스!포오올~!  
+
+썩쎄스풀 이 아니다.
+
+#### going to  
+> 고너  
+
+진짜 안들리는 것중에 하나. 강조해서 말하지도 않아서 더 안들림
+
+#### you're not going to be the only one
+
+
+
+****
 
 ## 정리
 
