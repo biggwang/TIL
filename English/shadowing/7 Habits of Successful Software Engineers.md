@@ -18,11 +18,22 @@ I had ~~and~~ `an` extreme ~~urage~~ `urge` to start cording ~~write~~ `right` ~
 Because I found that If I'm not coding I'm just not be improductive.
 But the   that most likely the software g bulit in is not good be bulit fully by you scratch.
 You're most likely being wokring an something that need to fit in into big system architecture.
-
+ 
 ****
-
+(1m 05s)
 ### 1. Understand the scope and the problem first before coding.
-And successful soft engineer do is than first fully understand the scope of problem and only than wants fully understand what is exactly in your solve only than you should start coding.
+and `what` successful soft`ware` engineer`s` do is ~~than~~ `that they` first fully understand the scope of `the` problem and only than ~~wants~~ `once you` fully understand what ~is~ `than` exactly ~~in your~~ `that you're ` ~~solve~~ `solthen`only than you should start coding.
+
+### 표현정리
+
+#### Once vs Wants
+두 발음차이가 거의 안나는거 같다...  
+**어떻게 구별 할 수 있을까?**
+
+#### what
+정확하게 왓! 이라고 들리지 않고 거의 잘 안들린다.  
+연음때문에 짧고 약하게 왓? 하고 지나감
+
 
 ****
 
@@ -47,12 +58,13 @@ There might be other ~~junior~~ `engineer` or designer`s` or data scientist`s` `
 썩쎄스풀 이 아니다.
 
 #### going to  
-> 고너  
+> 고너
 
-진짜 안들리는 것중에 하나. 강조해서 말하지도 않아서 더 안들림
+진짜 안들리는 것중에 하나. 강조해서 말하지도 않아서 더 안들림  
+자주 나오는 표현이므로 익숙해지자
 
 #### you're not going to be the only one
-
+> 고너 비디
 
 
 ****

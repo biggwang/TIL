@@ -1,6 +1,6 @@
 
 # :book: 개발 일지 
-[![Version](https://img.shields.io/badge/version-2019.01.06-red.svg)]()  
+[![Version](https://img.shields.io/badge/version-2019.01.13-red.svg)]()  
 
 - 에피파니(Epiphany) 적인 경험, 반성, 개념, Snippet 등 머릿속 추상적인 것들이나 배워야 할 내용을 글로 배출하면서 체화시켜 어제보다 발전한 나를 만드는 도구
 - 하루에 모든 Input이 모이는 장소
@@ -39,18 +39,19 @@
 ## 출/퇴근 (10점)
 - [] 독서를 하고 오늘 읽은 내용 정리 하였는가
 
-## 영어공부 (20점)
-- [] 출근할 때 7 Habits of Successful Software Engineers 쉐도잉 하였는가?
-- [] 아린이 볼 때 라푼젤 영상 쉐도잉 하였는가?
-- [] 자유시간에 쉐도잉 문장 정리 하였는가? (단어,문장,발음,강세,리듬)
+## 영어공부 (30점)
+- [] 출근할 때, 7 Habits of Successful Software Engineers 쉐도잉 하였는가? (10점)
+- [] 출근할 때, 아침에 말하고싶은 표현 3개 익숙하게 하고 TIL 정리하였는가? (10점)
+- [] 오늘한 쉐도잉 문장 스크립트 작성(자막x)하고 말하는데 익숙해졌는가? (5점)
+- [] 아린이 볼 때 라푼젤 영상 쉐도잉 하였는가? (5점)
 
-## 코딩문제 (15점)
+## 코딩문제 (30점)
 - [] 코딩문제 풀기 연습 이행 여부
 
-## TIL 정리 (25점)
+## TIL 정리 (20점)
 - [] 생각, 에피파니, 개발 지식을 정리 하였는가
 
-## 이번달 목표 진척 체크 (30점)
+## 이번달 목표 진척 체크 (20점)
 현재 달에 세운 목표 진척 체크 하기
 
 ex)
@@ -90,6 +91,7 @@ ex)
 - [운영체제 스케줄링 기법 정리](https://goo.gl/seyj6M)
 - [운영체제 역사](https://goo.gl/FAyw27)
 - [코드가 실행되는 원리](https://goo.gl/RgPzUi)
+- [프로세스 커뮤니케이션]()
 
 ## Design Pattern
 - [Factory Method Pattern](https://goo.gl/7svAUE)
@@ -112,10 +114,13 @@ ex)
 
 ## Spring
 - [LearningQueue](https://goo.gl/CsvBXa)
+- [멀티스레드 환경에서 Bean객체 사용 전략]()
+- [WAS 기동시 Spring 동작 순서 정리]()
+- [짤막 지식](https://goo.gl/aoCskp)
 - [Constructor Injection권장 이유](https://goo.gl/YHxMhn)
 - [Spring Context 구성 전략](https://goo.gl/trJx7t)
 - [Spring Container 파헤 치기](https://goo.gl/aRXAua)
-- [짤막 지식](https://goo.gl/aoCskp)
+- [IOC 컨테이너 파헤치기]()
 
 ## Junit
 - [Junit으로 단위테스트를 적용해 보자](https://goo.gl/ghhc5j)
