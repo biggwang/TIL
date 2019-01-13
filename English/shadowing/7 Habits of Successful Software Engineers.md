@@ -21,7 +21,7 @@ You're most likely being wokring an something that need to fit in into big syste
  
 ****
 (1m 05s)
-### 1. Understand the scope and the problem first before coding.
+### 1 Understand the scope and the problem first before coding.
 and `what` successful soft`ware` engineer`s` do is ~~than~~ `that they` first fully understand the scope of `the` problem and only than ~~wants~~ `once you` fully understand what ~is~ `than` exactly ~~in your~~ `that you're ` ~~solve~~ `solthen`only than you should start coding.
 
 ### 표현정리
@@ -38,7 +38,7 @@ and `what` successful soft`ware` engineer`s` do is ~~than~~ `that they` first fu
 ****
 
 (1m 20s)
-### Document as musch as you can
+### 2 Document as musch as you can
 This ~~princess tow point two~~ `bring us to point to`. Successful software engineer`s` are really good ~~a~~ `at` documentation.
 
 
