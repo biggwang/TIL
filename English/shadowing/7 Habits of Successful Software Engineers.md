@@ -10,7 +10,7 @@ Not just ~~and~~ `a` corder.
 Software engineer`ing` is way beyond just ~~a corder~~ `coding.`  but `that is a` topic for `a` ~~home~~ `whole` ~~your~~ `new` video.
 Let`s get started.  
 
-When I first started working in the ~~fill~~ `field`.  
+When I first started working in th e ~~fill~~ `field`.  
 
 I had ~~and~~ `an` extreme ~~urage~~ `urge` to start cording ~~write~~ `right` ~~and~~ `when I was` given a project `a` problem ~~it's~~ ~~picture~~ a feature to ~~impormat~~`implement`.
 
@@ -68,6 +68,8 @@ There might be other ~~junior~~ `engineer` or designer`s` or data scientist`s` `
 
 
 ****
+(1m 39s)
+And you need to make sure the whatever in your head gets documented and than clearly communicated for others. 
 
 ## 정리
 

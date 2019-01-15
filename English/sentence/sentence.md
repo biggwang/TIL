@@ -23,6 +23,8 @@ We **should have written** that on there.
 I **should have studied**.
 공부 좀 할 걸.
 
+### 
+
 
 아린이 몇시에 일어나야 돼?  
 What time does Arin get up?
