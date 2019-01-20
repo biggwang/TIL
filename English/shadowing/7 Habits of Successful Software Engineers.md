@@ -69,7 +69,8 @@ There might be other ~~junior~~ `engineer` or designer`s` or data scientist`s` `
 
 ****
 (1m 39s)
-And you need to make sure the whatever in your head gets documented and than clearly communicated for others. 
+And you need to make sure the whatever in your head gets documented and than clearly communicated for others.  
+Successful software engineer a make sure to document every stage ~~a~~ `of` his or her thinking of how they `will approach the problem` ~~were~~ `what` the solution ~~a~~ `of the ` problem is ~~whatever~~ `what are the ` potential ~~braod box~~ `roadblocks`to the soltuion ~~a~~ `of` the problem  and they will communicate ~~the us~~ `this` to all ~~to stay holder~~ `the stakeholders` and ~~party~~ `is` involved in ~~the~~ `this` project.
 
 ## 정리
 
