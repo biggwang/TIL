@@ -1,4 +1,4 @@
-## 7 Habits of Successful Software Engineers
+## 7 Habits of Successful Software Engineers (559s)
 
 In this video, I'm ~~gonna~~ `going to` talk about `what I think are the habit`s  of a succesful software enginner.  
 
@@ -68,21 +68,36 @@ There might be other ~~junior~~ `engineer` or designer`s` or data scientist`s` `
 
 
 ****
-(1m 39s)
+**1m 39s(16%)**
 And you need to make sure the whatever in your head gets documented and than clearly communicated for others.  
-Successful software engineer a make sure to document every stage ~~a~~ `of` his or her thinking of how they `will approach the problem` ~~were~~ `what` the solution ~~a~~ `of the ` problem is ~~whatever~~ `what are the ` potential ~~braod box~~ `roadblocks`to the soltuion ~~a~~ `of` the problem  and they will communicate ~~the us~~ `this` to all ~~to stay holder~~ `the stakeholders` and ~~party~~ `is` involved in ~~the~~ `this` project.
+Successful software engineer will make sure to document every stage ~~a~~ `of` his or her thinking of how they `will approach the problem` ~~were~~ `what` the solution ~~a~~ `of the ` problem is ~~whatever~~ `what are the ` potential ~~braod box~~ `roadblocks`to the soltuion ~~a~~ `of` the problem  and they will communicate ~~the us~~ `this` to all ~~to stay holder~~ `the stakeholders` and ~~party~~ `is` involved in ~~the~~ `this` project.
 
-## 정리
+### 단어 정리
 
-### I **`m going to** talk about what I think ~  
-즉흑적인 것이 아닌 할 예정인 것들에서 쓰인 표현, 고잉투가 아니라 고나 라고 들림
+#### approach
+다가가다/접근하다 (어떤 것에 도달하는 느낌인 단어)
+> We heard the sound of an approaching car
 
-### If you're  
-이프유얼이 아니라 이퓨얼로 들림
+#### potential
+잠재적인/가능성
 
-### First of all **the habits**  
-더 해!비츠
+#### raodblock
+(도로)바리케이드 / (계획의 진행을 가로막는) 장애물
 
-### **When I** first **started** ~
-웬아이 -> 웬 아  
-스탈티드 -> 쓰따아릿
+#### stakeholders  
+이해 관계자  
+> More easily communicate plans to stakeholders
+
+#### stage  
+(발달진행상의)단계[시기]
+> This technology is still in its early **stages**.  
+
+(하나의 과정 등을 여러 부분으로 나눈) 단계 
+> We did the first **stage** of the trip by train.  
+
+무대
+>The audience threw flowers onto the stage.
+
+****
+**2m 10s(23%)**
+They will do that so that every one is on the same page and they will also do that to get feedback from everyone most likely to you might have overlook something and asking for feedback and be recepts to my feedback from everyone else supreem important.
