@@ -27,11 +27,21 @@ I broke off with my girlfriend.
 
 ### on
 
-### get
+### get 
+많이 사용됨.. 예문 많이 보고 느낌확실히 체화시키자
+
+### as (equal 동등한 그림)
+I was sleeping as train was passing by. (내가 자고있는 상황) = (열차가 지나가고 있는 상황) -> 내가 자고 있을때 열차가 지나가고 있었다.  
+
+I failed an exam as I did not study hard. (내가 시험에 실패한 상황) = (내가 공부를 열심히 하지 않은 상황) -> 내가 열심히 공부를 안했기 때문에 내가 시험에 실패하였다.
 
 
-### have
+
+
+### have (소유해서 동작까지 하는 그림)
 
 
 ### to
+Come with me 나랑 같이 가자 (나랑 가까이 가자)  
 
+Come to me 나한테 와(나는 가만히 있음)

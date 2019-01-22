@@ -101,3 +101,8 @@ Successful software engineer will make sure to document every stage ~~a~~ `of` h
 ****
 **2m 10s(23%)**
 They will do that so that every one is on the same page and they will also do that to get feedback from everyone most likely to you might have overlook something and asking for feedback and be recepts to my feedback from everyone else supreem important.
+
+
+****
+**2m 26s(26%)**
+These is way to get feedback is to get on everyone same page document everything for everyone and that share
