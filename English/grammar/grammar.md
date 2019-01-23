@@ -45,3 +45,28 @@ I failed an exam as I did not study hard. (내가 시험에 실패한 상황) = 
 Come with me 나랑 같이 가자 (나랑 가까이 가자)  
 
 Come to me 나한테 와(나는 가만히 있음)
+
+
+### in (이 세상에 모든 공간을 찍는 그림) [영알남](https://goo.gl/TbH5DB)
+
+I noticed there is ac crack in the ceiling.  
+금이 천장이라는 공간(안을) 찍고 있는 느낌
+
+I got coins in the pocket.  
+동전이 주머니라는 공간 안을 찍는 느낌, 동전이 주머니를 떠다니지 않음  
+
+I saw a man in the mask.  
+남자가 마스크라는 공간을 찍고 있다. 마스크를 쓰고있다.  
+
+She was dancing in the club.  
+클럽이라는 공간을 찍으면서(스테이지에서 움직어나 테이블에서 움직이거나..) 허공에서 떠다니지는 않음  
+
+I'm going to Germany in 2 weeks.  
+나는 독일로 가는데 2주라는 시간을 찍고 간다. 즉 2주 뒤에 간다는 의미
+
+
+### after 쫒는 느낌
+after you 먼저가세요   
+
+I'm going to Germany after 2 weeks.  
+2주뒤에 독일을 가긴갈껀데 언제 갈지 모르는 상황임
