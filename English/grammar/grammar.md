@@ -24,6 +24,30 @@ I broke off with my girlfriend.
 (broke off 상태가 변한 것) (with 가가이 오는그림) 가까이 오는것이 상태가 변했다?? 헤어졌다라는 의미
 
 
+### for 댓가(주고 받는 교환 느낌) 
+
+I'm waiting for you  
+너에 대한 교환에 댓가는 기다림
+
+A dollar for a slice of pizza  
+피자에 대한 댓가(교환)로 달러!, 1달러와 핏자를 교환  
+
+This is for you  
+너에 대한 댓가로 너에게 교환 한것
+
+I will die for your kiss  
+나의 죽음을 너의 키스와 맞 바꿀것이다. 나는 너와 키스를 하고 죽을 것이다.  
+
+I've been waiting for 3 hours.  
+나는 기다려왔다. 3시간이라는 댓가(교환)을 치루고, 3시간 투자해서 댓가로 기다린것.  3시간동안 기다렸다.
+
+
+**for + 시간 하면 ~동안**  
+그 시간을 내가 맞바꾸는(교환) 것
+
+**for + 금액, 돈 지불하다**  
+돈을 지불해서 무언가와 맞바꾸는(교환하는) 의미
+
 
 ### on
 
