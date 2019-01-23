@@ -24,7 +24,7 @@ I broke off with my girlfriend.
 (broke off 상태가 변한 것) (with 가가이 오는그림) 가까이 오는것이 상태가 변했다?? 헤어졌다라는 의미
 
 
-### for 댓가(주고 받는 교환 느낌) 
+### for 댓가(주고 받는 교환 느낌) [영알남](https://goo.gl/AxS5Mq)
 
 I'm waiting for you  
 너에 대한 교환에 댓가는 기다림
@@ -49,7 +49,7 @@ I've been waiting for 3 hours.
 돈을 지불해서 무언가와 맞바꾸는(교환하는) 의미
 
 
-### on
+### on [영알남](https://goo.gl/HRzGij)
 
 ### get 
 많이 사용됨.. 예문 많이 보고 느낌확실히 체화시키자
