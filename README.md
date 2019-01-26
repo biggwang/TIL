@@ -86,20 +86,32 @@ ex)
 
 # :zap: 목차
 
+## Java
+- [Learning-Queue.](https://goo.gl/zJCU3M)
+- [Static에 대해서](https://goo.gl/s7DzPF)
+
 ## OS
+- [가상메모리](https://goo.gl/HUPoVX)
+- [스레드](https://goo.gl/J4TVCP)
 - [운영체제 구조](https://goo.gl/seyj6M)
 - [운영체제 스케줄링 기법 정리](https://goo.gl/seyj6M)
 - [운영체제 역사](https://goo.gl/FAyw27)
 - [코드가 실행되는 원리](https://goo.gl/RgPzUi)
-- [프로세스 커뮤니케이션]()
+- [프로세스 커뮤니케이션 - IPC](https://goo.gl/cPZELJ)
 
 ## Design Pattern
-- [Factory Method Pattern](https://goo.gl/7svAUE)
+- 하위 클래스에게 위임하기
+    + [Factory Method Pattern](https://goo.gl/7svAUE)
+    + [Template Method Pattern](https://goo.gl/M16SLU)
 
 ## Refactoring
-- [메서드 정리](https://goo.gl/q6yL6L)
-- [조건문 간결화](https://goo.gl/yzyrgM)
+- [OVERVIEW](https://goo.gl/5ZJxSS)
+- [매직넘버를 기호상수로 치환 하기](https://goo.gl/CBdLg1)
+- [메서드 추출(정리)](https://goo.gl/hWU37M)
 - [분류 코드를 클래스로 치환](https://goo.gl/1axZJx)
+- [분류 코드를 하위 클래스로 치환 - 분류 코드마다 동작이 다른 경우(1)](https://goo.gl/NdARBR)
+- [제어 플래그 줄이고 return, break로 대체하기](https://goo.gl/w1kshK)
+- [조건문 간결화](https://goo.gl/yzyrgM)
 
 ## Git
 - [Learning-Queue](https://goo.gl/uutXcG)
@@ -120,7 +132,7 @@ ex)
 - [Constructor Injection권장 이유](https://goo.gl/YHxMhn)
 - [Spring Context 구성 전략](https://goo.gl/trJx7t)
 - [Spring Container 파헤 치기](https://goo.gl/aRXAua)
-- [IOC 컨테이너 파헤치기]()
+- [IOC 컨테이너 파헤치기](https://goo.gl/aRXAua)
 
 ## Junit
 - [Junit으로 단위테스트를 적용해 보자](https://goo.gl/ghhc5j)
