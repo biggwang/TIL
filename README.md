@@ -35,7 +35,6 @@
 - **의식적인 생각**으로 항상 더 나은 방법은 없는지 생각하였는가  
 - 발생한 **문제들 두려워 말고 재밋는 문제** 풀이로 생각하였는가
 
-
 ## 출/퇴근 (10점)
 - [] 독서를 하고 오늘 읽은 내용 정리 하였는가
 
@@ -70,7 +69,7 @@ ex)
 - 쉐도잉
 - TIL, 포스팅 남은 것들
 - 개발 공부하고 있는 것들
-[] Cake 앱 표현 시간 날때마다 말하기 연습하였는가? (30점)
+[] Cake 앱 표현 시간 날때마다 말하기 연습하였는가? (30점) 
 ~~~
 
 
@@ -101,7 +100,7 @@ ex)
 
 ## Design Pattern
 - 하위 클래스에게 위임하기
-    + [Factory Method Pattern](https://goo.gl/7svAUE)
+    + [Factory Method Pattern](https://goo.gl/NwYV6J)
     + [Template Method Pattern](https://goo.gl/M16SLU)
 
 ## Refactoring
