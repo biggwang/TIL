@@ -110,7 +110,22 @@ These is way to get feedback is to get on everyone same page document everything
 ****
 **2m 35s(29%)**
 Successful habit number 3  
-Successful softenineer wrtie readable code and they you so because understand that they will probably not   only person interacting whatever they all may be after reload there someone else maintained 
+Successful software engineers write readable code and they ~~you~~ `do` so because `they` understand that they will probably not `be the` only person interacting `with` whatever they ~~all~~ `wrote or` ~~may be~~ `maybe` after `they` ~~reload~~ `wrote it`  there `is going to be` someone else ~~maintained~~ `maintaining`
+
+
+### 표현정리
+
+### they will probably not be the only person ~
+be the 부분이 거의 안들린다.. 강세가 약한 부분 소리는 짧게 "비디" 라고 들린다.
+
+### with
+윗! 짧게 약하게 들린다.
+
+### wrtoe
+write에 과거형 발음이 익숙하지 않아서 안들렸다.
+
+### or vs all
+all은 "얼" 이라고 들리고 or은 "올" 이라고 들림
 
 ****
 
