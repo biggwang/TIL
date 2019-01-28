@@ -113,7 +113,7 @@ Successful habit number 3
 Successful software engineers write readable code and they ~~you~~ `do` so because `they` understand that they will probably not `be the` only person interacting `with` whatever they ~~all~~ `wrote or` ~~may be~~ `maybe` after `they` ~~reload~~ `wrote it`  there `is going to be` someone else ~~maintained~~ `maintaining`
 
 
-### 표현정리
+### 표현정리 
 
 ### they will probably not be the only person ~
 be the 부분이 거의 안들린다.. 강세가 약한 부분 소리는 짧게 "비디" 라고 들린다.
@@ -128,4 +128,10 @@ write에 과거형 발음이 익숙하지 않아서 안들렸다.
 all은 "얼" 이라고 들리고 or은 "올" 이라고 들림
 
 ****
+**2m 54s(31.12%)**
+so they keep in mind the facts that someone will have to come in ~~and~~ `at` look and this thing that they ~~load~~ `wrote` they have never seen before and understand `it`
 
+
+### load vs wrote
+- load (으로오드)
+- wrote(으로오트!)
