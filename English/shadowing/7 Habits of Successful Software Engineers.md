@@ -134,4 +134,4 @@ so they keep in mind the facts that someone will have to come in ~~and~~ `at` lo
 
 ### load vs wrote
 - load (으로오드)
-- wrote(으로오트!)
+- wrote(으로오트!) 
