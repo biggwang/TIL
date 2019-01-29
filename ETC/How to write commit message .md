@@ -1,4 +1,4 @@
-## Commit Message 작성 방법 [참고](https://goo.gl/WctPim)
+## How to write commit message  [참고](https://goo.gl/WctPim)
 
 ### 제목 + 본문(선택) + 꼬리말(선택)
 
