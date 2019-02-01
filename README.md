@@ -1,3 +1,7 @@
+# Month Score
+![score](./img/score.png)
+
+
 
 # :book: 개발 일지 
 [![Version](https://img.shields.io/badge/version-2019.02.01-red.svg)]()  
