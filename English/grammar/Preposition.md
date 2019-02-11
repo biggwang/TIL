@@ -46,7 +46,6 @@ I've been waiting for 3 hours.
 **for + 금액, 돈 지불하다**  
 돈을 지불해서 무언가와 맞바꾸는(교환하는) 의미
 
-
 ### on [영알남](https://goo.gl/HRzGij)
 
 ### get 
