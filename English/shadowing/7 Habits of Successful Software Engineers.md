@@ -131,7 +131,14 @@ all은 "얼" 이라고 들리고 or은 "올" 이라고 들림
 **2m 54s(31.12%)**
 so they keep in mind the facts that someone will have to come in ~~and~~ `at` look and this thing that they ~~load~~ `wrote` they have never seen before and understand `it`
 
-
 ### load vs wrote
 - load (으로오드)
 - wrote(으로오트!) 
+
+****
+**3m 04s**
+Most importantly your solution your code must `be` readable. Because someone else might come in and want you understand `it`. 
+Successful habit number 4 ~~It's~~ `is` being good at cross-functional work. 
+As softengineer you most likely wil work with the other funcitons like designers ~~or~~ `or` product manager`s` or data scientists or people ~~on~~ `in` operations you name it. 
+
+Successful software engineer `empathizes` with the other function~~s~~ that they work with `and` almost put ~~themslef~~ `themselves` in that person's ~~choose~~ `shoes` so that they can ~~fact~~ `effectively` communicate with them they can deliver to them the exact information that they need so if I'm working `with a` designeer I'will `try` to explain to them what exactly I'm buliding ~~so~~ from like `the` design ~~for expactive~~ `perspective` if I'm working on product ~~fact~~ `facing` feature that's `what` I'm going to be ~~foucus~~ `focusing` on in conversation`s` with them ~~forseas~~ `versus` the ~~action~~ `actual` ~~need it~~ `nitty-gritty of` technical ~~information~~ `implementation` if I'm working `with a` data scientists I need to ~~fact~~ `effectively` communicate with them about logging or data ~~analyist~~ `data analysis` ~~would~~ `just` asking ~~that~~ `them thr right` question about how `we` want ~~you~~ `to`  ~~analys~~ `analyze` the data ~~common~~ `comming` from this new project ~~for~~ `or` ~~features~~ `feature` that ~~will~~ `would` ~~bulit~~ `build`.
