@@ -141,4 +141,16 @@ Most importantly your solution your code must `be` readable. Because someone els
 Successful habit number 4 ~~It's~~ `is` being good at cross-functional work. 
 As softengineer you most likely wil work with the other funcitons like designers ~~or~~ `or` product manager`s` or data scientists or people ~~on~~ `in` operations you name it. 
 
-Successful software engineer `empathizes` with the other function~~s~~ that they work with `and` almost put ~~themslef~~ `themselves` in that person's ~~choose~~ `shoes` so that they can ~~fact~~ `effectively` communicate with them they can deliver to them the exact information that they need so if I'm working `with a` designeer I'will `try` to explain to them what exactly I'm buliding ~~so~~ from like `the` design ~~for expactive~~ `perspective` if I'm working on product ~~fact~~ `facing` feature that's `what` I'm going to be ~~foucus~~ `focusing` on in conversation`s` with them ~~forseas~~ `versus` the ~~action~~ `actual` ~~need it~~ `nitty-gritty of` technical ~~information~~ `implementation` if I'm working `with a` data scientists I need to ~~fact~~ `effectively` communicate with them about logging or data ~~analyist~~ `data analysis` ~~would~~ `just` asking ~~that~~ `them thr right` question about how `we` want ~~you~~ `to`  ~~analys~~ `analyze` the data ~~common~~ `comming` from this new project ~~for~~ `or` ~~features~~ `feature` that ~~will~~ `would` ~~bulit~~ `build`.
+Successful software engineer `empathizes` with the other function~~s~~ that they work with `and` almost put ~~themslef~~ `themselves` in that person's ~~choose~~ `shoes` so that they can ~~fact~~ `effectively` communicate with them they can deliver to them the exact information that they need.  
+So if I'm working `with a` designeer I'will `try` to explain to them what exactly I'm buliding ~~so~~ from like `the` design ~~for expactive~~ `perspective` if I'm working on product ~~fact~~ `facing` feature that's `what` I'm going to be ~~foucus~~ `focusing` on in conversation`s` with them ~~forseas~~ `versus` the ~~action~~ `actual` ~~need it~~ `nitty-gritty of` technical ~~information~~ `implementation` if I'm working `with a` data scientists I need to ~~fact~~ `effectively` communicate with them about logging or data ~~analyist~~ `data analysis` ~~would~~ `or just` asking ~~that~~ `them the right` question about how `we` want ~~you~~ `to`  ~~analys~~ `analyze` the data ~~common~~ `comming` from this new project ~~for~~ `or` ~~features~~ `feature` that ~~will~~ `would` ~~bulit~~ `build`.
+
+### empathizes
+'엠퍼싸이즈' 라고 들리며 공감하다 라는 뜻
+
+### effectively
+e가 거의 안들리고 ㅇ풱티블리라고 들린다.
+
+### perspective
+관점
+
+****
