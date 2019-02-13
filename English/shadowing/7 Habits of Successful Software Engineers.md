@@ -136,7 +136,7 @@ so they keep in mind the facts that someone will have to come in ~~and~~ `at` lo
 - wrote(으로오트!) 
 
 ****
-**3m 04s**
+**3m 04s**  
 Most importantly your solution your code must `be` readable. Because someone else might come in and want you understand `it`. 
 Successful habit number 4 ~~It's~~ `is` being good at cross-functional work. 
 As softengineer you most likely wil work with the other funcitons like designers ~~or~~ `or` product manager`s` or data scientists or people ~~on~~ `in` operations you name it. 
@@ -154,3 +154,9 @@ e가 거의 안들리고 ㅇ풱티블리라고 들린다.
 관점
 
 ****
+
+**4m 21s**  
+So being good at cross-functional work is really important as software engineer.
+
+And this bring us to my next point communication.
+If you think that `a` software engineer you can just ``sit in a corner`` not ~~interact~~ `interrupt with` absolutely ~~any one~~ `anyone` ~~your~~ `you're` ~~definelly one~~ `definitely wrong`.
