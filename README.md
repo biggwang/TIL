@@ -2,7 +2,7 @@
 ![score](./img/score.png)
 
 # :book: 개발 일지 
-[![Version](https://img.shields.io/badge/version-2019.02.03-red.svg)]()  
+[![Version](https://img.shields.io/badge/version-2019.02.14-red.svg)]()  
 
 - 에피파니(Epiphany) 적인 경험, 반성, 개념, Snippet 등 머릿속 추상적인 것들이나 배워야 할 내용을 글로 배출하면서 체화시켜 어제보다 발전한 나를 만드는 도구
 - 하루에 모든 Input이 모이는 장소
@@ -46,8 +46,7 @@
 ## 영어공부 (30점)
 - [] 출근할 때, 쉐도잉 하였는가? (10점)
 - [] 단어 1개 확실한 쓰임법(그림, 발음) 알기(10점)
-- [] Dictation (5점)
-- [] 아린이 볼 때, 쉐도잉 하였는가? (5점)
+- [] Dictation (10점)
 
 ## 코딩문제 (50점)
 - [] 점심, 코딩 문제 풀기 (25점)
