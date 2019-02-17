@@ -160,3 +160,5 @@ So being good at cross-functional work is really important as software engineer.
 
 And this bring us to my next point communication.
 If you think that `a` software engineer you can just ``sit in a corner`` not ~~interact~~ `interrupt with` absolutely ~~any one~~ `anyone` ~~your~~ `you're` ~~definelly one~~ `definitely wrong`.
+
+ of course you should be ~~starting~~ `setting your own` boundaries and communication style  
