@@ -164,5 +164,5 @@ If you think that `a` software engineer you can just ``sit in a corner`` not ~~i
  of course you should be ~~starting~~ `setting your own` boundaries and communication style  
 
  **4m 44s**
- But successful software engineers are efeective communicators. Successful sortware enginners make sure that they communicate clearly and effectively.  
+ But successful software engineers are effective communicators. Successful sortware enginners make sure that they communicate clearly and effectively.  
  ~~The specialy~~ `especially` if you work on a project that involves other stackeholders or you work `with your teammates` other softwatre egineers you need to make sure that `you` communicate with them.
