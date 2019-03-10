@@ -166,3 +166,7 @@ If you think that `a` software engineer you can just ``sit in a corner`` not ~~i
  **4m 44s**
  But successful software engineers are effective communicators. Successful sortware enginners make sure that they communicate clearly and effectively.  
  ~~The specialy~~ `especially` if you work on a project that involves other stackeholders or you work `with your teammates` other softwatre egineers you need to make sure that `you` communicate with them.
+
+**5m 04s**  
+And over communication a lot of time`s` is much better than no communication.  
+Because when you communicate `or over communicate` you make sure that everyone ~~is~~ `on the` same page you make sure that everyone `is` clear what ~~your~~ you are wokring on `and` you make sure that no one is wondering or `I` wonder what ~~you go is~~ `nobody's`  working on I wonder `if` she completed that
