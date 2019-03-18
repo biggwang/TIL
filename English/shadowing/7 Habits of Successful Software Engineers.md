@@ -169,4 +169,22 @@ If you think that `a` software engineer you can just ``sit in a corner`` not ~~i
 
 **5m 04s**  
 And over communication a lot of time`s` is much better than no communication.  
-Because when you communicate `or over communicate` you make sure that everyone ~~is~~ `on the` same page you make sure that everyone `is` clear what ~~your~~ you are wokring on `and` you make sure that no one is wondering or `I` wonder what ~~you go is~~ `nobody's`  working on I wonder `if` she completed that
+Because when you communicate `or over communicate` you make sure that everyone ~~is~~ `on the` same page you make sure that everyone `is` clear what ~~your~~ you are wokring on `and` you make sure that no one is wondering or `I` wonder what ~~you go is~~ `nobody's`  working on I wonder `if` she completed that thing that I asked her to implement couple of days ago
+
+**5m 26s**
+So ~~communicate in~~ `communicating` ~~factibly~~ `effectivley` clearly and ~~potential~~ `potientially` over ~~communicate in~~ coimmunicating is extremely important also by communicating with your teammates you can potentially recognize wheater you can ~~how them out~~ `help them out` 
+or you can `unblock them`  
+
+And commnuicating in general in your team in your work in your company just interacting with people you can open up ~~oppertunity is~~ `opportunities` for you.  
+
+You might hear about something that another team ~~was~~ `is` wokring on that ~~fix~~ `fits` in or `or helps out` your product your teamwork your project and that will open up ~~oppertunity~~ `opportunities` and ~~your~~ `doors` for you.
+
+
+### effectivley
+몇일전에도 적어놨는데 e는 거의 들리지 않는다. 
+
+### a couple of day ago
+couple에 뜻은 두어명, 대략 2~3개의 뭉뜽그려 표현 할 때 쓰임, 여기서는 2~3일전에 라고 이해 하면 된다. 
+
+### helps out
+헬싸웃 
