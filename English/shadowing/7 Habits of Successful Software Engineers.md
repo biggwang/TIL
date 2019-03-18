@@ -14,13 +14,13 @@ When I first started working in th e ~~fill~~ `field`.
 
 I had ~~and~~ `an` extreme ~~urage~~ `urge` to start cording ~~write~~ `right` ~~and~~ `when I was` given a project `a` problem ~~it's~~ ~~picture~~ a feature to ~~impormat~~`implement`.
 
-(44s)
+**44s**  
 Because I found that If I'm not coding I'm just not be improductive.
 But the   that most likely the software g bulit in is not good be bulit fully by you scratch.
 You're most likely being wokring an something that need to fit in into big system architecture.
  
 ****
-(1m 05s)
+**1m 05s**  
 ### 1 Understand the scope and the problem first before coding.
 and `what` successful soft`ware` engineer`s` do is ~~than~~ `that they` first fully understand the scope of `the` problem and only than ~~wants~~ `once you` fully understand what ~is~ `than` exactly ~~in your~~ `that you're ` ~~solve~~ `solthen`only than you should start coding.
 
@@ -37,7 +37,7 @@ and `what` successful soft`ware` engineer`s` do is ~~than~~ `that they` first fu
 
 ****
 
-(1m 20s)
+**1m 20s**  
 ### 2 Document as musch as you can
 This ~~princess tow point two~~ `bring us to point to`. Successful software engineer`s` are really good ~~a~~ `at` documentation.
 
@@ -68,7 +68,7 @@ There might be other ~~junior~~ `engineer` or designer`s` or data scientist`s` `
 
 
 ****
-**1m 39s(16%)**
+**1m 39s(16%)**  
 And you need to make sure the whatever in your head gets documented and than clearly communicated for others.  
 Successful software engineer will make sure to document every stage ~~a~~ `of` his or her thinking of how they `will approach the problem` ~~were~~ `what` the solution ~~a~~ `of the ` problem is ~~whatever~~ `what are the ` potential ~~braod box~~ `roadblocks`to the soltuion ~~a~~ `of` the problem  and they will communicate ~~the us~~ `this` to all ~~to stay holder~~ `the stakeholders` and ~~party~~ `is` involved in ~~the~~ `this` project.
 
@@ -99,16 +99,16 @@ Successful software engineer will make sure to document every stage ~~a~~ `of` h
 >The audience threw flowers onto the stage.
 
 ****
-**2m 10s(23%)**
+**2m 10s(23%)**  
 They will do that so that everyone is on the same page and they will also do that to get feedback from everyone most likely ~~to~~ you might have overlook`ed` something and asking for feedback and ~~be recepts~~ `being receptive` to ~~my~~ `that` feedback from everyone else `is` ~~supreem~~ `super`important.
 
 
 ****
-**2m 26s(26%)**
+**2m 26s(26%)**  
 These is way to get feedback is to get on everyone same page document everything for everyone and that share
 
 ****
-**2m 35s(29%)**
+**2m 35s(29%)**  
 Successful habit number 3  
 Successful software engineers write readable code and they ~~you~~ `do` so because `they` understand that they will probably not `be the` only person interacting `with` whatever they ~~all~~ `wrote or` ~~may be~~ `maybe` after `they` ~~reload~~ `wrote it`  there `is going to be` someone else ~~maintained~~ `maintaining`
 
@@ -128,7 +128,7 @@ write에 과거형 발음이 익숙하지 않아서 안들렸다.
 all은 "얼" 이라고 들리고 or은 "올" 이라고 들림
 
 ****
-**2m 54s(31.12%)**
+**2m 54s(31.12%)**  
 so they keep in mind the facts that someone will have to come in ~~and~~ `at` look and this thing that they ~~load~~ `wrote` they have never seen before and understand `it`
 
 ### load vs wrote
@@ -163,7 +163,7 @@ If you think that `a` software engineer you can just ``sit in a corner`` not ~~i
 
  of course you should be ~~starting~~ `setting your own` boundaries and communication style  
 
- **4m 44s**
+ **4m 44s**  
  But successful software engineers are effective communicators. Successful sortware enginners make sure that they communicate clearly and effectively.  
  ~~The specialy~~ `especially` if you work on a project that involves other stackeholders or you work `with your teammates` other softwatre egineers you need to make sure that `you` communicate with them.
 
@@ -171,7 +171,7 @@ If you think that `a` software engineer you can just ``sit in a corner`` not ~~i
 And over communication a lot of time`s` is much better than no communication.  
 Because when you communicate `or over communicate` you make sure that everyone ~~is~~ `on the` same page you make sure that everyone `is` clear what ~~your~~ you are wokring on `and` you make sure that no one is wondering or `I` wonder what ~~you go is~~ `nobody's`  working on I wonder `if` she completed that thing that I asked her to implement couple of days ago
 
-**5m 26s**
+**5m 26s**  
 So ~~communicate in~~ `communicating` ~~factibly~~ `effectivley` clearly and ~~potential~~ `potientially` over ~~communicate in~~ coimmunicating is extremely important also by communicating with your teammates you can potentially recognize wheater you can ~~how them out~~ `help them out` 
 or you can `unblock them`  
 
