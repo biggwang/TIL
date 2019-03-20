@@ -81,6 +81,9 @@
 ## Http
 - [HttpServletRequest 스트림을 여러번 쓰고 싶을 때(Filter 역활)](https://goo.gl/w2L1gw)
 
+## IntelliJ
+- [마우스휠로 에디터 글자 크기 조정 방법)]()
+
 ## Java
 - [인터페이스 활용](https://goo.gl/UAdbPN)
 - [Static에 대해서](https://goo.gl/s7DzPF)
