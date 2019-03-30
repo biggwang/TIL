@@ -188,3 +188,9 @@ couple에 뜻은 두어명, 대략 2~3개의 뭉뜽그려 표현 할 때 쓰임,
 
 ### helps out
 헬싸웃 
+
+**6m 8s**
+Next up recognizing opportunities. Successful software engineers recognize opportunities for improvements and impact.  
+And ~~When~~ `what` I mean `by` that is that successful software engineers do not just focus on ~~there~~ `their` project`s` or feature at hand that ~~the~~ `they're` working on but ~~there~~ `they're` able to see and follow beyond that ~~there~~ `they're` able to follow what ~~there~~ `their` ~~teamate~~ `teammates` working on what there works is focus is.  
+
+And Why `that` is important is because when ~~your~~ `you're` able to see that big picture as supposed to be`ing` narrow focus`ed` on okay this is an wokring on and this is only think I carry about your able to potentially recognize opportunities for impact and improment.
