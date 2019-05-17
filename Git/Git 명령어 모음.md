@@ -14,12 +14,23 @@ $ git status |
 
 
 ## stash
+### git stash -u
+> untracked 한 파일까지 stash 하기
+
 ### git stash show stash@{index}
 > stash List에 있는 특정 stash 파일 목록 보기
 
 ### git stash show -p | git apply -R 
 > stash apply 한거 되돌리기 [참고](https://goo.gl/6tVzeY)
 
+### git stash --patch
+> stash 할 목록 선택하기
+
+### git stash show stash@{index}
+> stash List에 있는 특정 stash 파일 목록 보기
+
+### git stash branch [이동할 브랜치명]
+> 해당 브랜치에서 충돌 나지 않고 다른 브랜치 생성하여 그 브랜치에서 소스 확인하고 싶을 
 
 ## diff
 
