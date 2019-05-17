@@ -1,9 +1,3 @@
-## Git 명령어 이어 쓰기
-$ git status |
->   > git add . |
->   > git commit -m 'test'
-
-
 ## .gitIgnore
 - .gitIgnore 파일에 추가만 해도 ignore 된다. 다만 git rm --cached 하는 이유는 이미 remote 저장소에 올려지 파일을 삭제하기 위함이다.
 
