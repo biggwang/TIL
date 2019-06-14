@@ -60,4 +60,4 @@ public InjectionRecipe(ServiceA serviceA) {
 
 
 ### 참고
-- https://goo.gl/YsE4RY
+- https://warpgate3.tistory.com/entry/Spring-Constructor-Dependency-Injection-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85
