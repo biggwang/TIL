@@ -1,3 +1,7 @@
+### Docker를 이미지화 시켜서 얻는 장점
+https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html
+
+
 
 ### 배포하는 시점에서 서버 환경은 완전히 똑같다
 A 서버는 되는데 B 서버는 왜 될까??  
