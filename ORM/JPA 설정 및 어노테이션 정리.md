@@ -76,7 +76,3 @@ public class Account {
 }
 
 ~~~
-
-
-
-### 1대다 맵핑
