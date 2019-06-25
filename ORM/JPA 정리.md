@@ -1,18 +1,22 @@
 
-### 엔티티 맵핑
+### 엔티티 맵핑 관련 어노테이션
 
 **@Entity**
 - 자동으로 @Table로 맵핑되며 @Table 어노테이션이 생략 된 것
 - JPA 세계에서 사용하는 객체
 - name 속성을 붙이지 않으면 클래명으로 한다.
-- 특정 DB에 User 키워드가 있어 클래스명을 User라고 쓰지 않는게 좋다.
-
+- 특정 DB에 User 키워드를 사용 할 수 없다면 @Entity(name="users")라고 사용하면 된다.
 
 **@Column**
 - nullable, unique 속성등을 따로 넣지 않으면 굳이 안적어 주어도 컬럼으로 인식 함
 
 **@Transient**  
 - 컬럼으로 맵핑하지 않겠다는 의미  
+- 그냥 자바에서만 필요한 데이터
+
+**@Temporal**
+- 날짜 관련 
+- JPA 2.1에서는 Date와 Calender 밖에 지원되지 않음 (2.2에서는 지원 하는것 같음)
 
 
 ### spring.jpa.hibernate.ddl-auto = update
