@@ -1,5 +1,5 @@
 ## JPA 설정 관련
----- 
+
 ### spring.jpa.hibernate.ddl-auto = update
 
 - 장점은, 엔티티 클래스에 컬럼 추가하면 DB에 반영되서 편리하다.  
@@ -18,7 +18,6 @@ mysql 연동시 @Column(nullable = false, unique = true) 이 있다면
 
 
 ## 엔티티 맵핑 관련 어노테이션
-----
 
 **@Entity**
 - 자동으로 @Table로 맵핑되며 @Table 어노테이션이 생략 된 것
