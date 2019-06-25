@@ -27,6 +27,13 @@
 
 - 엔티티 클래스 정보를 바꾼다고 해서 이미 생성된 테이블 스키마는 변경되지 않는다.
 
+### spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
+mysql 연동시 @Column(nullable = false, unique = true) 이 있다면 
+> Error executing DDL "alter table TABLE_NAME add constraint UK_eke0p6056qepc3h537i4xgban unique (COL_NAME)" via JDBC Statement
+
+에러가 발생하는데 그럴땐 위 설정값을 추가해 주면 된다.
+
+
 ### Value 타입 맵핑
 
 **@Embeddable**  
