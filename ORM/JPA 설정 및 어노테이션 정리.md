@@ -1,4 +1,4 @@
-### JPA 설정 관련
+## JPA 설정 관련
 ---- 
 ### spring.jpa.hibernate.ddl-auto = update
 
@@ -17,7 +17,7 @@ mysql 연동시 @Column(nullable = false, unique = true) 이 있다면
 
 
 
-### 엔티티 맵핑 관련 어노테이션
+## 엔티티 맵핑 관련 어노테이션
 ----
 
 **@Entity**
@@ -39,10 +39,44 @@ mysql 연동시 @Column(nullable = false, unique = true) 이 있다면
 
 
 
-### Value 타입 맵핑
+## Composite Value 타입 맵핑
 
-**@Embeddable**  
-Composite 한 Value 타입
+Address라는 Compoite한 컬럼들을 모아 놓고 
+~~~ java
+
+@Embeddable
+public class Address {
+
+    private String street;
+
+    private String city;
+
+    private String state;
+
+    private String zipCode;
+
+}
+~~~
+
+엔티티 내에서 아래와 같이 쓰게 되면 Address 하위 컬럼들이 테이블에 생기게 된다.
+
+~~~ java
+@Entity
+public class Account {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY) // mysql 사용시 붇여줘야 한다.
+    private Long id;
+    
+    @Embedded
+    @AttributeOverrides({
+            @AttributeOverride(name = "street", column = @Column(name = "home_street"))
+    })
+    private Address address;
+
+}
+
+~~~
 
 
 
