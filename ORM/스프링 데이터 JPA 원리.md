@@ -31,3 +31,8 @@ public class YungwangRegistar implements ImportBeanDefinitionRegistrar {
 ~~~
 
 그러면 @Autowired 하여 Yungwang 객체를 얻을 수 있다.
+
+
+### Hibernate , JPA 쿼리 로그는 반드시 작성하자
+
+그래야 쿼리 튜닝을 할 수 있고 쿼리 튜닝은 반드시 해야 성능에 이슈를 최소화 할 수 있다.
