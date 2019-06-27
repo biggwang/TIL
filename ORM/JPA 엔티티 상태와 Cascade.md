@@ -8,6 +8,11 @@
 
 ### 엔티티 상태
 
+출처: Inflearn 백기선 Spring JPA
+![jpa-entity-status](../img/jpa-entity-status.png)  
+  
+  
+
 우선, 아래 JPA 코드 부터 보자 
 
 ~~~ java
