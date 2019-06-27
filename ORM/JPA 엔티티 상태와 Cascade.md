@@ -1,5 +1,9 @@
 ### Cascade 옵션
-Entity 상태를 전이시키는 옵션
+
+- Entity 상태를 전이시키는 옵션
+- 두 Entity가 Parents, Child 관계일 때 사용
+
+
 
 ### 엔티티 상태
 
