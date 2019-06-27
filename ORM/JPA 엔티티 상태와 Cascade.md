@@ -2,6 +2,7 @@
 
 - Entity 상태를 전이시키는 옵션
 - 두 Entity가 Parents, Child 관계일 때 사용
+- DB에서 FK 연관 테이블은 DELETE 명령어 되지 않을 때 cascade 옵션을 주어 관련 모든 데이터 삭제 하는 기능 생각하면 됨
 
 
 
