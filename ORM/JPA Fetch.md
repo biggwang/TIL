@@ -1,0 +1,7 @@
+### 연관 관계의 엔티티를 어떻게 가져올 것인가 
+
+- @OneToMany 기본값 Lazy
+- @ManyToMany 기본값 Eager
+
+Post, Comment 테이블 관계에서 Post에서 Comments데이터를 기본적으로 가져오지 않는다.  
+왜냐하면 Comment에 Row가 얼마나 있을지 모르기 때문이다.
