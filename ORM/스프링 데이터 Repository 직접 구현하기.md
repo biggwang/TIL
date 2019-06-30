@@ -14,7 +14,8 @@ public interface CommentRepository {
 
 #### 공통 인터페이스 정의
 
-위 내가 구현한 save, findAll 기능을 모든 리파지토리에서 쓰고 싶다면 아래와 같이 작성한다.
+위 내가 구현한 save, findAll 기능을 모든 리파지토리에서 쓰고 싶다면 아래와 같이 작성한다.  
+또는 Spring Data가 제공해주는 JpaRepository에 모든 기능중에 골라 정의하여 공통으로 쓰고 싶을때도 사용해도 좋다.
 
 ~~~ java
 @NoRepositoryBean
