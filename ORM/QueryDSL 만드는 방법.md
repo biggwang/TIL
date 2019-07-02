@@ -71,10 +71,25 @@ public class Application {
 }
 ~~~
 
-해결 방법은 
+해결 방법은  
+
+QuerydslJpaRepository로 상속하게 함으로써 QuerydslPredicateExcutor를 사용 할 수 있게 되었으니 Querldsl을 사용 할 수 있게 된 것이다.
 
 ~~~ java
+public class SimpleMyRepository<T, ID extends Serializable> extends QuerydslJpaRepository<T, ID> implements MyRepository<T, ID> {
 
+    private EntityManager entityManager;
+
+    public SimpleMyRepository(JpaEntityInformation<T, ?> entityInformation, EntityManager entityManager) {
+        super(entityInformation, entityManager);
+        this.entityManager = entityManager;
+    
+
+    @Override
+    public boolean contains(T entity) {
+        return entityManager.contains(entity);
+    
+}
 
 ~~~
 
