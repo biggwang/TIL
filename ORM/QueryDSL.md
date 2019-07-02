@@ -58,5 +58,29 @@ public class AccountRepositoryTest {
 위 방법 그데로 하게 되면 **No propery exists found for type Post!** 가 발생하게 되는데  
 이유는 커스텀하게 만들었데 Repository에서 QuerydslPredicateExcutor 를 구현하지 않았기 때문이다. 
 
+바로 아래 코드를 보면 SimpleMyRepository가 기본 Repository로 되어 있다.
+
+~~~ java
+@SpringBootApplication
+@EnableJpaRepositories(repositoryBaseClass = SimpleMyRepository.class)
+public class Application {
+    
+    public static void main(String[] args) {
+        SpringApplication.run(Application.class);
+    }
+}
+~~~
+
+해결 방법은 
+
+~~~ java
+
+
+~~~
+
+
+
+
+
 ### 출처
 인프런 백기선 Spring JPA
