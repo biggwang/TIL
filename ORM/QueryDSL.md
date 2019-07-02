@@ -11,17 +11,52 @@ findByFirstNameIngoreCaseAndLastNameStartsWithIgnoreCase(String firstName, Strin
 - http://www.querydsl.com/
 - 타입 세이프한 쿼리 만들 수 있게 도와주는 라이브러리
 - JPA, SQL, MongoDB, JDO, Lucene, Collection 지원
-QueryDSL JPA 연동 가이드
+- [QueryDSL JPA 연동 가이드](http://www.querydsl.com/static/querydsl/4.1.3/reference/html_single/#jpa_integration)
+
+### Qxxx.java 파일 생성
+- Maven, Gradle 에서 compile 하게 되면 지정 위치에 Qxxxx.java 파일이 생성 됨
+- Entity에 대한 쿼리를 작성할 수 있게 변환된 파일이다.
 
 ### 스프링 데이터 JPA + QueryDSL
 - 인터페이스: QuerydslPredicateExecutor<T>
 - 구현체: QuerydslPredicateExecutor<T>
 
 ### 연동 방법
-- 기본 리포지토리 커스터마이징 안 했을 때. (쉬움)
-- 기본 리포지토리 커스타마이징 했을 때.
+
+- QueryDsl 의존성 라이브러리 추가
+
+#### 기본 리포지토리 커스터마이징 안 했을 때. (쉬움)
+~~~ java
+public interface AccountRepository extends JpaRespository<Account, Long>, QuerydslPredicateExcutor<Account> {
+}
+~~~
 
 
+~~~ java 
+@RunWith(SpringRunner.class)
+@DataJpaTest
+public class AccountRepositoryTest {
+    
+    @Autowired
+    private AccountRepository accountRepository;
+    
+    @Test
+    public void crud() {
+        QAccount account = QAccount.accout;
+        Predicate prdicate = account
+                .firstName.contatinsIgnoreCase("ryu")
+                .and(account.lastName.startWith("yungwang"));
+                
+        Optional<Account> one = accountRepository.findOne(predicate);
+        assertThat(one).isEmpty();
+    }
+}
+~~~
+
+#### 기본 리포지토리 커스타마이징 했을 때.
+
+위 방법 그데로 하게 되면 **No propery exists found for type Post!** 가 발생하게 되는데  
+이유는 커스텀하게 만들었데 Repository에서 QuerydslPredicateExcutor 를 구현하지 않았기 때문이다. 
 
 ### 출처
 인프런 백기선 Spring JPA
