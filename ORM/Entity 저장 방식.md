@@ -131,3 +131,5 @@ public void save() {
 }
 ~~~
 
+### 참고
+인프런 백기선 Spring JPA
