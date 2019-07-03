@@ -49,15 +49,23 @@ public void save() {
 }
 ~~~
 
-###  영속성 컨텍스트에 저장 될 
-EntityManager.persist()
-https://docs.oracle.com/javaee/6/api/javax/persistence/EntityManager.html#persist(java.lang.Object)
-Persist() 메소드에 넘긴 그 엔티티 객체를 Persistent 상태로 변경합니다.
+## 같은 save() 함수 라도 내부적으로 persist()가 될수도 있고 merge()가 될수도 있다.
 
-### 영속성 컨텍스트에 저장 됬을 경우
-EntityManager.merge()
-https://docs.oracle.com/javaee/6/api/javax/persistence/EntityManager.html#merge(java.lang.Object)
-Merge() 메소드에 넘긴 그 엔티티의 복사본을 만들고, 그 복사본을 다시 Persistent 상태로 변경하고 그 복사본을 반환합니다.
+
+###  영속성 컨텍스트에 최초!!! 저장 될 경우
+
+#### EntityManager.persist()
+- https://docs.oracle.com/javaee/6/api/javax/persistence/EntityManager.html#persist(java.lang.Object)
+- Persist() 메소드에 넘긴 그 엔티티 객체를 Persistent 상태로 변경하며 EntityManager가 관리하는 상태가 된다.
+- 다시 말해서 EntityManger에 관리되지 않는 Entity
+
+
+
+### 영속성 컨텍스트에 저장 된 이력이!!! 있을 경우
+
+#### EntityManager.merge()
+- https://docs.oracle.com/javaee/6/api/javax/persistence/EntityManager.html#merge(java.lang.Object)
+- Merge() 메소드에 넘긴 그 엔티티의 복사본을 만들고, 그 복사본을 다시 Persistent 상태로 변경하고 그 복사본을 반환합니다.
 
 
 ### 그럼 같은 save() 인데 어떤것은 insert, update 무슨 차이가 있는 것인가?
