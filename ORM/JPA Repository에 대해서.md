@@ -86,9 +86,7 @@ public void save() {
     assertThat(entityManager.contatins(savedPost)).isTrue();
     assertThat(savedPost === post);
     
-    Post postUpdate = new Post();
-    post.setId(post.getId());
-    post.setTitle("hibernate");
+   
     
     
     
@@ -96,11 +94,14 @@ public void save() {
     // merge구문이 수행될 때 전달 받은 파라미터 엔티티인 postUpdate에 복사본을 만들고
     // 그 복사본을 merge하고 그 복사본이 EntityManager에 관리되고 그복사본이 return 된 것이다.
     // 그러므로 postUpdate와 updateedPost 객체는 다르다.
+    Post postUpdate = new Post();
+    post.setId(post.getId());
+    post.setTitle("hibernate");
     Post updatedPost = postRepository.save(postUpdate); // merge
     
     assertThat(entityManager.contatins(updatedPost)).isTrue();
     assertThat(entityManager.contatins(postUpdate)).isFalse();
-    assertThat(updatedPost === postUpdate);
+    assertThat(updatedPost == postUpdate).isFalse();
     
             
     // JPA insert, update를 반영하기 위해 작성 된 코드(@Test에서는 Rollback이 되니까..)
@@ -112,7 +113,33 @@ public void save() {
 
 
 
+### Best Practice
+전달 받은 파라미터를 사용하지 말고 return 받은 객체를 사용한다. 
 
+JPA, EntityManager에 소름 돋는 동작 방식을 보겠다.  
+바로 위 테스트 코드를 조금 바꿔서 아래 예제를 보면
 
+~~~ java
+@Test
+public void save() {
+    
+    Post postUpdate = new Post();
+    post.setId(post.getId());
+    post.setTitle("hibernate");
+    Post updatedPost = postRepository.save(postUpdate); // merge
+    
+    postUpdate.setTitle("boriswinter");
+    updatedPost.setTitle("boriswinter");
+    
+            
+    // JPA insert, update를 반영하기 위해 작성 된 코드(@Test에서는 Rollback이 되니까..)
+    List<Post> all = postRepository.findAll();
+    assertThat(all.size()).isEqualTo(1);
 
+}
+~~~
+
+### 차이가 무엇일까??
+> postUpdate.setTitle("boriswinter");
+updatedPost.setTitle("boriswinter");
 
