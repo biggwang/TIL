@@ -5,9 +5,9 @@
 
 
 ~~~ java
-@GetMapping("/posts/{id}")
-public String getAPost(@PathVariable(“id”) Post post) {
-    return post.getTitle();
+@GetMapping("/posts")
+public Page<Post> getPosts(Pageable pageable) {
+    return postRepository.findAll(pageable);
 }
 ~~~ 
 
