@@ -70,6 +70,45 @@ public void save() {
 
 ### 그럼 같은 save() 인데 어떤것은 insert, update 무슨 차이가 있는 것인가?
 
+~~~ java
+@Test
+public void save() {
+    
+    // @Generated 를 제거하고 id없이 insert하므로 perist()가 호출 된다.
+    Post post = new Post();
+    post.setTitle("jpa");
+    
+    // 영속성 컨텍스트에 보관된 객체를 넘겨준다.
+    Post savedPost = postRepository.save(post); // persist
+    
+    // return 받은 entity와 전달 파라미터 entity와 같은 참조 같은 객체이다.
+    assertThat(entityManager.contatins(post)).isTrue();
+    assertThat(entityManager.contatins(savedPost)).isTrue();
+    assertThat(savedPost === post);
+    
+    Post postUpdate = new Post();
+    post.setId(post.getId());
+    post.setTitle("hibernate");
+    
+    
+    
+    
+    // merge구문이 수행될 때 전달 받은 파라미터 엔티티인 postUpdate에 복사본을 만들고
+    // 그 복사본을 merge하고 그 복사본이 EntityManager에 관리되고 그복사본이 return 된 것이다.
+    // 그러므로 postUpdate와 updateedPost 객체는 다르다.
+    Post updatedPost = postRepository.save(postUpdate); // merge
+    
+    assertThat(entityManager.contatins(updatedPost)).isTrue();
+    assertThat(entityManager.contatins(postUpdate)).isFalse();
+    assertThat(updatedPost === postUpdate);
+    
+            
+    // JPA insert, update를 반영하기 위해 작성 된 코드(@Test에서는 Rollback이 되니까..)
+    List<Post> all = postRepository.findAll();
+    assertThat(all.size()).isEqualTo(1);
+
+}
+~~~
 
 
 
