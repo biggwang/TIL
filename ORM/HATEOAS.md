@@ -32,9 +32,7 @@ public class PostControllerTest {
     
     @Test
     public void getPost() throws Exception() {
-        Post post = new Post();
-        post.setTitle("jpa");
-        postRepository.save(post);
+        createPost();
         
         mockMvc.perform(get("/posts)
                       .param("page", "0)
@@ -48,5 +46,60 @@ public class PostControllerTest {
                   ;
     
     }
+    
+    private void createPosts() {
+        int postsCount = 100;
+        while(postsCount > 0) {
+            Post post = new Post();
+            post.setTitle("jpa");
+            postRepository.save(post);
+            postsCount--;
+        }
+    }
 }
+~~~
+
+### HATEOS 결과
+~~~
+{  
+   "_embedded":{  
+      "postList":[  
+         {  
+            "id":140,
+            "title":"jpa",
+            "created":null
+         },
+...
+         {  
+            "id":109,
+            "title":"jpa",
+            "created":null
+         }
+      ]
+   },
+   "_links":{  
+      "first":{  
+         "href":"http://localhost/posts?page=0&size=10&sort=created,desc&sort=title,asc"
+      },
+      "prev":{  
+         "href":"http://localhost/posts?page=1&size=10&sort=created,desc&sort=title,asc"
+      },
+      "self":{  
+         "href":"http://localhost/posts?page=2&size=10&sort=created,desc&sort=title,asc"
+      },
+      "next":{  
+         "href":"http://localhost/posts?page=3&size=10&sort=created,desc&sort=title,asc"
+      },
+      "last":{  
+         "href":"http://localhost/posts?page=19&size=10&sort=created,desc&sort=title,asc"
+      }
+   },
+   "page":{  
+      "size":10,
+      "totalElements":200,
+      "totalPages":20,
+      "number":2
+   }
+}
+
 ~~~
