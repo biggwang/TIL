@@ -36,7 +36,9 @@ public class PostControllerTest {
                   ;
     
     }
-    
+~~~
+
+~~~ java
     @Test
     public void getPost() throws Exception() {
         Post post = new Post();
@@ -56,3 +58,4 @@ public class PostControllerTest {
     
     }
 }
+~~~
