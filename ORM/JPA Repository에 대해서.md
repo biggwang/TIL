@@ -37,11 +37,12 @@ public void save() {
 }
 ~~~
 
-
+###  영속성 컨텍스트에 저장 될 
 EntityManager.persist()
 https://docs.oracle.com/javaee/6/api/javax/persistence/EntityManager.html#persist(java.lang.Object)
 Persist() 메소드에 넘긴 그 엔티티 객체를 Persistent 상태로 변경합니다.
 
+### 영속성 컨텍스트에 저장 됬을 경우
 EntityManager.merge()
 https://docs.oracle.com/javaee/6/api/javax/persistence/EntityManager.html#merge(java.lang.Object)
 Merge() 메소드에 넘긴 그 엔티티의 복사본을 만들고, 그 복사본을 다시 Persistent 상태로 변경하고 그 복사본을 반환합니다.
