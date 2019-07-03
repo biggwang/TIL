@@ -1,6 +1,6 @@
 ## 엔티티 저장하기
 
-### JpaRepository의 save()는 단순히 새 엔티티를 추가하는 메소드가 아닙니다.
+### JpaRepository의 save()는 단순히 새 엔티티를 추가하는 메소드가 아니다.
 - Transient 상태의 객체라면 EntityManager.persist()
 - Detached 상태의 객체라면 EntityManager.merge()
 
