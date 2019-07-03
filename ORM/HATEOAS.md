@@ -41,7 +41,6 @@ public class PostControllerTest {
                       .param("sort", "title"))
                   .andDo(print())
                   .andExpect(status().isOk())
-                  .andExpect(content().string("jpa"))
                   .andExpect(jsonPath("$.content[0].title", is("jpa")))
                   ;
     
