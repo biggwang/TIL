@@ -128,7 +128,17 @@ public void save() {
     post.setTitle("hibernate");
     Post updatedPost = postRepository.save(postUpdate); // merge
     
+    // 위 merge구문 때문에 postUpdate Entity가 복사된 객체가 영속성컨텍스트에 관리 되었기 때문에
+    // postUpdate Entity는 영속성 컨텍스트에 관리되지 않는다.
+    // 따라서 set하여 title을 바꾸더라도 Update 구문이 DB에 날라가지 않는다.
     postUpdate.setTitle("boriswinter");
+    
+    // return을 updatePost로 받았기 때문에 해당 Entity는 영속성 컨텍스트에 관리된다.
+    // 따라서 set하여 title이 변경 되었기 때문에 update 구문이 날라간다.
+    // 정확히 말해서 아래 findAll 하는 부분이 있는데 여기서 모든 데이터를 가져오려면 방금한 
+    // update 구문을 반영해서 변경된 데이터를 가져와야 하는것을 영속성 컨텍스트가 판단해서 
+    // update 구문을 실행한 것이다. 
+    // 바로 이러한 점이 영속성 컨텍스트에 장점이 되겠다.
     updatedPost.setTitle("boriswinter");
     
             
@@ -138,8 +148,4 @@ public void save() {
 
 }
 ~~~
-
-### 차이가 무엇일까??
-> postUpdate.setTitle("boriswinter");
-updatedPost.setTitle("boriswinter");
 
