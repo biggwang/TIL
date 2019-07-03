@@ -1,4 +1,13 @@
 ~~~ java
+@GetMapping("/posts")
+public PagedResources<Resource<Post>> getPosts(Pageable pageable, PagedResourcesAssembler<Post> assembler) {
+    return assembler.toResource(findAll(pageable));
+}
+~~~ 
+
+
+
+~~~ java
 @Runwith(SpringRunner.class)
 @SpringBootTest // 이렇게 하면 main > resources 패키지안에 application.yml 파일에 내용이 불러오지만
 @AutoConfigurationMockMvc
