@@ -1,4 +1,4 @@
-## JPA Repository에 대해서.md
+## JPA Repository에 대해서
 
 ### @EnableJpaRepositories
 - 스프링 부트 사용할 때는 사용하지 않아도 자동 설정 됨.
