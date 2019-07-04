@@ -48,7 +48,8 @@
       List<Post> findByTitle(String title); // NamedQuery
  
  }
-~~
+~~~
+
 ### 기본 예제
 
 List<Person> findByEmailAddressAndLastname(EmailAddress emailAddress, String lastname);
