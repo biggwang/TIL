@@ -103,6 +103,16 @@ public void updateTitle() {
     
     // find해도 아직 트랜잭션 상태이기 때문에 조회해도 hibernate가 아니라 spring이 된다.
     // 잊지말자!!! 트랜잭션 중이라는 것을!!!!!
+    
+    // 만약 트랜잭션 중간에 업데이트를 반영하려면
+    // 관리되고 있는 해당 Entity를 Persist Context를 비워줘야 한다.
+    
+    // 해당 Repository에서 
+    // @Modifying(clearAutomatically = true, flushAutomatically = true) 하면 된다.
+    // @Query("SELECT p FROM Post AS p WHERE p.title = ?1")
+    // List<Post> findByTitle(String title); // NamedQuery
+    
+    
     Optional<Post> byId = postRepository.findById(spring.getId());
     assertThat(byId.get().getTitle()).isEqualTo(hibernate);
 }
