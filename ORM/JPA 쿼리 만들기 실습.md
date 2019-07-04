@@ -58,21 +58,18 @@
 - List<Person> findByLastnameAndFirstnameAllIgnoreCase(String lastname, String firstname);  // ignoring case
 
 ### 정렬
-
-List<Person> findByLastnameOrderByFirstnameAsc(String lastname);
-List<Person> findByLastnameOrderByFirstnameDesc(String lastname);
+- List<Person> findByLastnameOrderByFirstnameAsc(String lastname);
+- List<Person> findByLastnameOrderByFirstnameDesc(String lastname);
 
 ### 페이징
-
-Page<User> findByLastname(String lastname, Pageable pageable);
-Slice<User> findByLastname(String lastname, Pageable pageable);
-List<User> findByLastname(String lastname, Sort sort);
-List<User> findByLastname(String lastname, Pageable pageable);
+- Page<User> findByLastname(String lastname, Pageable pageable);
+- Slice<User> findByLastname(String lastname, Pageable pageable);
+- List<User> findByLastname(String lastname, Sort sort);
+- List<User> findByLastname(String lastname, Pageable pageable);
 
 ### 스트리밍
-
-Stream<User> readAllByFirstnameNotNull();
-try-with-resource 사용할 것. (Stream을 다 쓴다음에 close() 해야 함)
+- Stream<User> readAllByFirstnameNotNull();
+- try-with-resource 사용할 것. (Stream을 다 쓴다음에 close() 해야 함)
 
 
 ## Update 쿼리 메소드 만들기
