@@ -9,7 +9,6 @@
   + (기본값) FETCH: 설정한 엔티티 애트리뷰트는 EAGER 패치 나머지는 LAZY 패치.
   + LOAD: 설정한 엔티티 애트리뷰트는 EAGER 패치 나머지는 기본 패치 전략 따름.
 
-
 ~~~ java
 @Entity
 public class Comment {
