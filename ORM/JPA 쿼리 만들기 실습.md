@@ -118,7 +118,20 @@ public void updateTitle() {
 }
 ~~~
 
+즉 저렇게 @Modifying하지 않고 아래와 같이 하는게 낫다.
 
+~~~ java
+@Test
+public void updateTitle() {
+    Post spring = savePost();
+    spring.setTitle("hibernate"); // 값이 바뀌었다!!, Update가 일어난게 아님
+    
+    // findAll 하면 전체 데이터를 가져오는것이기 때문에 
+    // 현재까지 있었던 트랜잭션 상황을 반영함
+    List<Post> all = postRepository.findAll();    
+    assertThat(all.get(0).getTitle()).isEqualTo("hibernate");
+}
+~~~
 
 
 
