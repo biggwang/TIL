@@ -51,15 +51,11 @@
 ~~~
 
 ### 기본 예제
-
-List<Person> findByEmailAddressAndLastname(EmailAddress emailAddress, String lastname);
-// distinct
-List<Person> findDistinctPeopleByLastnameOrFirstname(String lastname, String firstname);
-List<Person> findPeopleDistinctByLastnameOrFirstname(String lastname, String firstname);
-// ignoring case
-List<Person> findByLastnameIgnoreCase(String lastname);
-// ignoring case
-List<Person> findByLastnameAndFirstnameAllIgnoreCase(String lastname, String firstname);
+- List<Person> findByEmailAddressAndLastname(EmailAddress emailAddress, String lastname);
+- List<Person> findDistinctPeopleByLastnameOrFirstname(String lastname, String firstname);  // distinct
+- List<Person> findPeopleDistinctByLastnameOrFirstname(String lastname, String firstname);
+- List<Person> findByLastnameIgnoreCase(String lastname); // ignoring case
+- List<Person> findByLastnameAndFirstnameAllIgnoreCase(String lastname, String firstname);  // ignoring case
 
 ### 정렬
 
