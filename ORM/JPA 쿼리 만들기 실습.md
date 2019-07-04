@@ -78,4 +78,40 @@ List<User> findByLastname(String lastname, Pageable pageable);
 Stream<User> readAllByFirstnameNotNull();
 try-with-resource 사용할 것. (Stream을 다 쓴다음에 close() 해야 함)
 
+
+## Update 쿼리 메소드 만들기
+
+### @Modifying 사용 자제 이유는
+
+~~~ java
+private Post savePost() {
+    Post post = new Post();
+    post.setTitle("Spring");
+    return postRepository.save(post);   // persist
+}
+
+
+@Test
+public void updateTitle() {
+    // Persist 상태가 됬으며 1차 캐쉬중이다.
+    Post spring = savePost();
+    
+    // update가 발생했다.
+    String hibernate = "hibernate";'
+    int update = postRepository.updateTitle(hibernate, spring.getId();
+    assertThat(update).isEqualTo(1);
+    
+    // find해도 아직 트랜잭션 상태이기 때문에 조회해도 hibernate가 아니라 spring이 된다.
+    // 잊지말자!!! 트랜잭션 중이라는 것을!!!!!
+    Optional<Post> byId = postRepository.findById(spring.getId());
+    assertThat(byId.get().getTitle()).isEqualTo(hibernate);
+}
+~~~
+
+
+
+
+
+
+
 출처: 인프런 백기선 Spring Data JPA
