@@ -22,15 +22,9 @@
 
 
 ## IntelliJ
-- [Setting Manual](https://goo.gl/ucwjSt)
-
-## Java
-- [인터페이스 활용](https://goo.gl/UAdbPN)
-- [Static에 대해서](https://goo.gl/s7DzPF)
-
-## Junit
-- [Junit을 왜 사용하는지 실무에 적용해 보고 알았다.](https://goo.gl/2M2mnu)
-- [Junit으로 단위테스트를 적용해 보자](https://goo.gl/ghhc5j)
+- [마우스 휠 글자크기 설정 방법](https:github.com/biggwang/TIL/blob/master/IntelliJ/%EB%A7%88%EC%9A%B0%EC%8A%A4%20%ED%9C%A0%20%EA%B8%80%EC%9E%90%ED%81%AC%EA%B8%B0%20%EC%84%A4%EC%A0%95%20%EB%B0%A9%EB%B2%95.md)
+- [SpringBoot 메인 함수 적용이 안될 때](https:github.com/biggwang/TIL/blob/master/IntelliJ/SpringBoot%20%EB%A9%94%EC%9D%B8%20%ED%95%A8%EC%88%98%20%EC%A0%81%EC%9A%A9%EC%9D%B4%20%EC%95%88%EB%90%A0%20%EB%95%8C%20.md)
+- [마우스 휠 글자크기 설정 방법](https:github.com/biggwang/TIL/blob/master/IntelliJ/%EB%A7%88%EC%9A%B0%EC%8A%A4%20%ED%9C%A0%20%EA%B8%80%EC%9E%90%ED%81%AC%EA%B8%B0%20%EC%84%A4%EC%A0%95%20%EB%B0%A9%EB%B2%95.md)
 
 ## Maven
 - [ [기본] 메이븐 사용법 정리](https://goo.gl/Q4eF4X)
@@ -54,14 +48,6 @@
 - [조건문 간결화](https://goo.gl/yzyrgM)
 
 ## Spring
-- [LearningQueue](https://goo.gl/CsvBXa)
-- [멀티스레드 환경에서 Bean객체 사용 전략]()
-- [WAS 기동시 Spring 동작 순서 정리]()
-- [짤막 지식](https://goo.gl/aoCskp)
-- [Constructor Injection권장 이유](https://goo.gl/YHxMhn)
-- [Spring Context 구성 전략](https://goo.gl/trJx7t)
-- [Spring Container 파헤 치기](https://goo.gl/aRXAua)
-- [IOC 컨테이너 파헤치기](https://goo.gl/aRXAua)
 
 ## SqlServer
 - [쿼리 Statistics 정보 확인 방법](https://goo.gl/kwsepz)
