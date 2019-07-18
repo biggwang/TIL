@@ -1,5 +1,8 @@
 # :zap: 목차
 
+## Docker
+- [Docker 를 사용해야하는 이유](https:github.com/biggwang/TIL/blob/master/Docker/Docker%20%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+
 ## Git
 - [동일 branch에서 연속 Commit 하였을 때 생기는 문제](https://goo.gl/YUvfNr)
 - [cherry-pick, rebase, merge 각각의 용도 조사 및 실전 적용](https://goo.gl/N5eeku)
@@ -8,8 +11,15 @@
 - [Git 명령어 모음](https://goo.gl/N3gRgf)
 - [Git 브랜치 전략](https://goo.gl/K1Vsnh)
 
+## Gradle
+- [멀티프로젝트 구성하는 이유](https:github.com/biggwang/TIL/blob/master/Gradle/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+
 ## Http
+- [Http 약점 및 암호화](https:github.com/biggwang/TIL/blob/master/Http/Http%20%EC%95%BD%EC%A0%90%20%EB%B0%8F%20%EC%95%94%ED%98%B8%ED%99%94.md)
 - [HttpServletRequest 스트림을 여러번 쓰고 싶을 때(Filter 역활)](https://goo.gl/w2L1gw)
+- [jquery ajax json 보내고 @RequestBody 받는 방법](https:github.com/biggwang/TIL/blob/master/Http/Server%20%EC%95%9E%EB%8B%A8%EC%97%90%20%EC%97%AC%EB%9F%AC%20%EC%84%9C%EB%B2%84%EB%93%A4%EC%9D%B4%20%EC%9E%88%EC%9D%84%EB%95%8C%20Client%20IP%20%EC%96%BB%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+- [TCP와 IP 역활](https:github.com/biggwang/TIL/blob/master/Http/TCP%EC%99%80%20IP%20%EC%97%AD%ED%99%9C.md)
+
 
 ## IntelliJ
 - [Setting Manual](https://goo.gl/ucwjSt)
@@ -55,11 +65,6 @@
 
 ## SqlServer
 - [쿼리 Statistics 정보 확인 방법](https://goo.gl/kwsepz)
-
-## Design Pattern
-- 하위 클래스에게 위임하기
-    + [Factory Method Pattern](https://goo.gl/NwYV6J)
-    + [Template Method Pattern](https://goo.gl/M16SLU)
 
 
 

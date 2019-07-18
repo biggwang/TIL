@@ -1,5 +1,0 @@
-- 스프링 공부시 백기선 강의 참조
-- 캡틴판교 인프런 view.js 강의 
-- 유트브 SK MSA 강의
-- 의도적 수련 - https://goo.gl/xsCgon
-- Make It Work Make It Right Make It Fastfd 
