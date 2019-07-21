@@ -27,7 +27,7 @@
 - [마우스 휠 글자크기 설정 방법](https:github.com/biggwang/TIL/blob/master/IntelliJ/%EB%A7%88%EC%9A%B0%EC%8A%A4%20%ED%9C%A0%20%EA%B8%80%EC%9E%90%ED%81%AC%EA%B8%B0%20%EC%84%A4%EC%A0%95%20%EB%B0%A9%EB%B2%95.md)
 
 ## JPA
-- [N+1 문제 해결 방법](https://github.com/biggwang/TIL/blob/master/JPA/JPA%20%EC%BF%BC%EB%A6%AC%20%EC%82%AC%EC%9A%A9%EB%B2%95%20.md)
+- [N+1 문제 해결 방법](https://github.com/biggwang/TIL/blob/master/JPA/N%2B1%20%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EB%B2%95.md)
 
 ## Maven
 - [ [기본] 메이븐 사용법 정리](https://goo.gl/Q4eF4X)
