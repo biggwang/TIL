@@ -1,0 +1,1 @@
+![spock-where-only-one.png](../img/spock-where-only-one.png)  
