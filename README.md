@@ -5,6 +5,7 @@
 
 ## Git
 - [동일 branch에서 연속 Commit 하였을 때 생기는 문제](https://goo.gl/YUvfNr)
+- [ammend 하고 push하는 reject 될때 해결방법](https://github.com/biggwang/TIL/blob/master/Git/ammend%20%ED%95%98%EA%B3%A0%20push%ED%95%98%EB%8A%94%20reject%20%EB%90%A0%EB%95%8C%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95.md)
 - [cherry-pick, rebase, merge 각각의 용도 조사 및 실전 적용](https://goo.gl/N5eeku)
 - [내가 먼저 올려도 다른 사람이 먼저 리뷰가 된다면](https://goo.gl/3rdZVC)
 - [Git 구조](https://goo.gl/df3CTC)
