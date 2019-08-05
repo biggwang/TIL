@@ -1,6 +1,6 @@
 별거 아닌데 잘 모르면 참 뻘짓을 많이 하게 되는거 같아 정리한다.
 
-### Texarea와 그 외 태그(<p> 등..) 전환시 \n, <br> replace처리
+### Texarea와 그 외 태그 전환시 개행문자 replace처리
 Textarea value 에서는 \n 개행문자 줄바꿈이 적용되며 HTML 상에서는 <br>이 줄바꿈이다. 
 
 
