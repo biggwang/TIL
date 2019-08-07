@@ -1,1 +1,5 @@
+### 공식 사이트
+https://www.codota.com/on-boarding?analyticsId=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiYsm6O8jb_64i4kEqM_ztXZ12KLaE-Z4dsr5pXkCM6L4JBLvO10ZFo9AK_qeB9cX4ZiKtlqzoxwTSs6VC7dvxY4-Cl7rJlajwlW3FDUE5Kg7Yn0LAcd-qW3886WVhdM0lI5Mw_gWNNfIOPqA5Bo2jQa5qcjPR7Es1EIHBf9vGmuhEN0o1uZkI4oFufAeds2SuE8JgM9OB6tL00LI6tiXAkLXBY1YmRsoiWIyaOORpEL1JkXRIk3a6e5FE8yaiDeE9TtG2-dKZe-3jYM6aF7pkNW_8LOO60Olouy_jyQN84mL0Nbwp583haC819zDN86sWYqCt346TYarXl7XQYUoGQIDAQAB
 
+### 사용 가이드
+https://github.com/msbaek/code-samples/blob/master/src/test/java/codota/README.md?fbclid=IwAR1S5hhCE1LZUR-ePnuZtgXDtbQx7hgxhZD_bzKelWC-Yq5YshliFIft6yI
