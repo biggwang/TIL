@@ -1,0 +1,12 @@
+### jsonp를 사용하는 이유
+
+기본적으로 브라우저에서 서로 다른 도메인으로 request하는 것을 제한하고 있다고 한다. (same origin poliy)
+하지만 <script> 태그에서는 그 정책이 적용되지 않아 그것을 우회 하는 방식인 jsonp가 있다는 것을 알았다.
+
+### 참고
+https://blog.seotory.com/post/2016/04/understand-jsonp
+
+### CORS - Cross Origin Resource Sharing
+다른 방식인 CORS도 있다. jsonp는 옛날방식이며 지원하지 않는 곳도 있기 때문에 CORS로 해결을 해야 한다.
+
+
