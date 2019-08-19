@@ -56,6 +56,7 @@
 ## Network
 - [Nginx Load Balencing 역활을 할 때 서버 재시작 되면?](https://bit.ly/2TITdMJ)
 - [네트워크 관점에서 부하테스트 올바르게 주는 방법](https://bit.ly/2P1RWBH)
+- [네트워크 기초 용어](https://bit.ly/2Z40dtm)
 
 ## OS
 - [가상메모리](https://goo.gl/HUPoVX)
