@@ -71,6 +71,11 @@
 - [제어 플래그 줄이고 return, break로 대체하기](https://goo.gl/w1kshK)
 - [조건문 간결화](https://goo.gl/yzyrgM)
 
+
+## Spock
+- [spock where 파라미터 1개일때 표현 방법](https://bit.ly/2THHT3q)
+
+
 ## Spring
 - [순환참조(Circular Reference)가 발생하는 이유](https://bit.ly/2Hff0Xd)
 
