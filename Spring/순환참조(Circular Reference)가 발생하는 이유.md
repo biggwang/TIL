@@ -1,3 +1,21 @@
+### 발생상황
+
+스프링부트에서 인터셉터를 추가하기 위해 Constructor Injection으로 추가하였는데 
+
+~~~ java
+@Configuration
+@RequiredArgsConstructor
+public class WebConfig implements WebMvcConfigurer {
+
+    private final HandlerInterceptor handlerInterceptor;
+    
+    ...
+}
+~~~
+
+아래와 같은 오류가 발생하였다.
+
+
 
 
 
