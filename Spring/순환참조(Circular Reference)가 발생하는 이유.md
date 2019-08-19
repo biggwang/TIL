@@ -18,6 +18,16 @@ public class WebConfig implements WebMvcConfigurer {
 ![spring-circular-injection](../img/spring-circular-injection.png)
 
 
+### 발생원인
+
+객체 의존이 A -> B -> C 형식으로 되어 있을때, Spring DI는 C -> B -> A 순으로 객체를 생성한다.  
+
+하지만, A -> B, A <- B 서로 의존 하고 있을땐? 어느 것을 먼저 생성할지 몰라서 순환 참조 오류가 발생한 것이다.
+
+
+### 해결 방법
+
+Injection 방식을 Constructor로 하여 객체 생성을 못해 발생한 것이니 Setter Injection 방식으로 바꾸면 해결 된다.
 
 
 ### 참고
