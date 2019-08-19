@@ -15,7 +15,7 @@ public class WebConfig implements WebMvcConfigurer {
 
 아래와 같은 오류가 발생하였다.
 
-![spring-circular-dependency](../img/spring-circular-dependency.png)
+![spring-circular-injection](../img/spring-circular-injection.png)
 
 
 
