@@ -53,6 +53,10 @@
 ## Maven
 - [ [기본] 메이븐 사용법 정리](https://goo.gl/Q4eF4X)
 
+## Network
+- [Nginx Load Balencing 역활을 할 때 서버 재시작 되면?](https://bit.ly/2TITdMJ)
+- [네트워크 관점에서 부하테스트 올바르게 주는 방법](https://bit.ly/2P1RWBH)
+
 ## OS
 - [가상메모리](https://goo.gl/HUPoVX)
 - [스레드](https://goo.gl/J4TVCP)
