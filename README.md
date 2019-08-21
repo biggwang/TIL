@@ -84,6 +84,7 @@
 
 ## Spring
 - [순환참조(Circular Reference)가 발생하는 이유](https://bit.ly/2Hff0Xd)
+- [static-resource-path 사용방법](https://bit.ly/31Vu1Fo)
 
 ## SqlServer
 - [쿼리 Statistics 정보 확인 방법](https://goo.gl/kwsepz)
