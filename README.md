@@ -58,6 +58,8 @@
 - [네트워크 관점에서 부하테스트 올바르게 주는 방법](https://bit.ly/2P1RWBH)
 - [네트워크 기초 용어](https://bit.ly/2TTlaBy)
 - [네트워크 타임아웃 정리](https://bit.ly/2HfWqON)
+- [DHCP에 ](https://bit.ly/2zex6Er)
+
 
 ## OS
 - [가상메모리](https://goo.gl/HUPoVX)
