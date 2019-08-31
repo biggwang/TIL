@@ -84,3 +84,39 @@ console.log(objA == objB);    // false
 console.log(objB == objC);    // true
 
 ~~~
+
+### 참조에 의한 함수 호출 방식
+
+기본타입은 함수 호출시 매개변수로 넘어갈 때 값을 복사하지만 객체는 참조값을 그대로 보낸다. 때문에 객체에 값이 변경되면 참조 한 값은 모두 변경된다.
+~~~ javascript
+var a = 100;
+var objA = { value: 100 };
+
+function changeArg(num, obj) {
+    num = 200;
+    obj.value = 200;
+
+    console.log(num);       // 200
+    console.log(obj);       // 200
+}
+
+changeArg(a, objA);
+
+console.log(a);             // 100
+console.log(objA);          // 200
+~~~
+
+### 프로토타입
+
+자바스크립트에서는 객체의 부모 역활을 하는 객체 프로토타입이 존재한다. (OOP에 상속 관계와 비슷함)  
+
+~~~ javascript 
+var obj = {
+    name: 'ryu',
+    age: 31
+}
+~~~
+
+foo.toString()      // 선언한적없는데 사용 할 수 있다!!
+
+
