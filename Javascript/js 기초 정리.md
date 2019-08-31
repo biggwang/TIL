@@ -48,3 +48,22 @@ obj.fn = function () {
 }
 console.log(obj.fn());    // 함수도 프로퍼티 값으로 가능함
 ~~~
+
+### 객체는 참조 타입
+
+선언된 객체 objA, objB는 객체 값을 가지고 있는 것이 아닌 객체 참조 값을 가지고 있는 것이다.  
+var objB = objA; 연산으로 같은 주소값을 가지고 있기 때문에 둘중 하나라도 값이 변경되면 모두 변경된다.
+
+~~~ javascript
+var objA = {
+    val : 40
+}
+var objB = objA;
+
+console.log(objA.val);
+console.log(objB.val);
+
+objB.val = 100;
+console.log(objA.val);
+console.log(objB.val);
+~~~
