@@ -60,10 +60,27 @@ var objA = {
 }
 var objB = objA;
 
-console.log(objA.val);
-console.log(objB.val);
+console.log(objA.val);      // 40
+console.log(objB.val);      // 40
 
 objB.val = 100;
-console.log(objA.val);
-console.log(objB.val);
+console.log(objA.val);      // 100
+console.log(objB.val);      // 100
+~~~
+
+### 객체 비교
+
+객체 비교는 참조값으로 하기 때문에 값이 같더라도 참조값이 다르면 다른것이다.
+~~~ javascript
+var a = 100;
+var b = 100;
+
+var objA = { value: 100 };
+var objB = { value: 100 };
+var objC = objB;
+
+console.log(a == b);          // true
+console.log(objA == objB);    // false
+console.log(objB == objC);    // true
+
 ~~~
