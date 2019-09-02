@@ -41,12 +41,14 @@ var add = function sum(x, y) {
 ~~~ javascript
 var func = function () {
     return 42;
-};
+}
 (function () {
     console.log("function called");
 })();
-
-func();
 ~~~
 
+안그러면 오류가 발생하고 어디서 오류를 찾기 어렵다. 
 
+자바스크립트 엔진이 위 구문을 해석할 때 세미콜론이 없어 즉시실행함수가 func() 실행하라는 의미로 착각하고 즉시실행함수 마지막 () 여기에서
+
+42(); 로 인식하여 구문 오류가 발생한다.
