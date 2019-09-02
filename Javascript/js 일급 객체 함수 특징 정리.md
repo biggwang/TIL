@@ -23,6 +23,33 @@ obj.baz = function() { return 200; }
 console.log(obj.baz());
 ~~~
 
+
+### 함수 인자로 전달 하기
+
+~~~ javascript
+var foo = function(func()) {
+  func();
+};
+
+// foo() 함수 실행
+foo(function()) {
+  console.log('Function can be used as the argument.');
+});
+~~~
+
+### 리턴값으로 활용
+
+함수 자체가 값이기 때문에 return으로도 활용 할 수 있다.
+~~~ javascript
+var foo = function() {
+  return function() {
+    console.log('this function is the return value');
+  };
+};
+
+~~~
+
+
 ### 함수로 동적으로 프로퍼티 할당 하기
 
 ~~~ javascript
