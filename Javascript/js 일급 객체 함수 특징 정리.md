@@ -65,3 +65,10 @@ console.log(add.status);
 ~~~
 
 add() 함수 객체 안에 code영역과 result, status 객체 프로퍼티 값이 존재한다.
+
+
+### Function.prototype 
+
+모든 자바스크립트 함수에 부모객체를 말한다. 
+
+Function.prototype도 함수이므로 부모객체 즉, 모든 함수 객체에 조상인 Object.prototype이 존재한다.
