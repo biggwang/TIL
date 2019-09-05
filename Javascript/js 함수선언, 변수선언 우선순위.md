@@ -22,7 +22,7 @@ function test2() {
   console.log("안녕!!");
 }
 
-console.log(typeof test2);
+console.log(typeof test2);  // string
 ~~~
 
 javascript 엔진에서는 아래와 같이 해석 하게 된다.
