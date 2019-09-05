@@ -51,10 +51,11 @@
 - [N+1 문제 해결 방법](https://github.com/biggwang/TIL/blob/master/JPA/N%2B1%20%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EB%B2%95.md)
 
 ### Javascript
-- [패키지 선언 방법 및 스코프](https://bit.ly/2ZrDl7d)
 - [js 기초 정리](https://bit.ly/2ZoKa9H)
 - [js 함수 선언식과 함수 표현식의 차이 그리고 호이스팅](https://bit.ly/2lUfkmy)
 - [js 함수선언, 변수선언 우선순위](https://bit.ly/2m0gKfj)
+- [js가 인식하는 boolean.md](https://bit.ly/2ktY7js)
+- [패키지 선언 방법 및 스코프](https://bit.ly/2ZrDl7d)
 
 ## Maven
 - [ [기본] 메이븐 사용법 정리](https://goo.gl/Q4eF4X)
