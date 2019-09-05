@@ -54,7 +54,7 @@
 - [패키지 선언 방법 및 스코프](https://bit.ly/2ZrDl7d)
 - [js 기초 정리](https://bit.ly/2ZoKa9H)
 - [js 함수 선언식과 함수 표현식의 차이 그리고 호이스팅](https://bit.ly/2lUfkmy)
-- [js 함수선언, 변수선언 우선순위](https://bit.ly/2lxUysG)
+- [js 함수선언, 변수선언 우선순위](https://bit.ly/2m0gKfj)
 
 ## Maven
 - [ [기본] 메이븐 사용법 정리](https://goo.gl/Q4eF4X)
