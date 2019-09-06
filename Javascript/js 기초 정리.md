@@ -119,4 +119,27 @@ var obj = {
 
 foo.toString()      // 선언한적없는데 사용 할 수 있다!!
 
+### 글로벌 변수
+
+~~~ javascript
+test();
+function test() {
+    var testVar = "test!";
+    console.log(testVar);   // testVar is not defined
+}
+
+console.log(testVar);
+~~~
+
+
+~~~ javascript
+test();
+function test() {
+    testVar = "test!";
+    console.log(testVar);
+}
+
+console.log(testVar);
+~~~
+
 
