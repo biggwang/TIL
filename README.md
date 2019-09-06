@@ -56,7 +56,7 @@
 - [js 함수선언, 변수선언 우선순위](https://bit.ly/2m0gKfj)
 - [js가 인식하는 boolean.md](https://bit.ly/2ktY7js)
 - [패키지 선언 방법 및 스코프](https://bit.ly/2ZrDl7d)
-- [js ](https://bit.ly/2m3MsZf)
+- [js 스코프 체인](https://bit.ly/2m3MsZf)
 
 ## Maven
 - [ [기본] 메이븐 사용법 정리](https://goo.gl/Q4eF4X)
