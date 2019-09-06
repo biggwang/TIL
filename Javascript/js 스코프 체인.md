@@ -32,7 +32,7 @@ function wrapper() {
 wrapper();
 ~~~
 
-
+#### 
 ~~~ javascript
 var name = 'zero';
 function log() {
@@ -45,3 +45,5 @@ function wrapper() {
 }
 wrapper();
 ~~~
+
+#### [참고](https://www.zerocho.com/category/JavaScript/post/5740531574288ebc5f2ba97e)
