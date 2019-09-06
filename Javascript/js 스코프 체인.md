@@ -18,11 +18,11 @@ outer();
 console.log(enemy); // undefined
 ~~~
 
-
+#### 함수선언된 위치에서 가장 가까운 변수를 찾는다.
 ~~~ javascript
 var name = 'zero';
 function log() {
-  console.log(name);
+  console.log(name);   // nero
 }
 
 function wrapper() {
@@ -32,11 +32,10 @@ function wrapper() {
 wrapper();
 ~~~
 
-#### 
 ~~~ javascript
 var name = 'zero';
 function log() {
-  console.log(name);
+  console.log(name);    // zero
 }
 
 function wrapper() {
