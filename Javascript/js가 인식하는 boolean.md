@@ -17,6 +17,6 @@
         console.log('-----------------------------------------------------');
         console.log('(null == undefined) ? ' + (null == undefined ? 'true' : 'false'));     // true
         console.log('(null === undefined) ? ' + (null === undefined ? 'true' : 'false'));   // false
-    </script>
+</script>
 
 ~~~
