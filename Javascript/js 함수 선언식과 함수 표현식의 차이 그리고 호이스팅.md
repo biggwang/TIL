@@ -16,9 +16,11 @@ console.log(add(3,4));
 
 #### 자바스크립트 엔진에 의해서 다음과 같이 변경 된다.
 
+~~~ javascript
 var add = functio add(x, y) {
   return x + y;
 };
+~~~
 
 그렇기 때문에 add()라고 사용해도 함수 호출이 되는 것이다.
 
