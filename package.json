@@ -1,0 +1,53 @@
+{
+    "name": "quarkly-export",
+    "scripts": {
+        "build": "gatsby build",
+        "build:clean": "npm run clean && npm run build",
+        "build:ci": "cross-env CI=false npm run build:clean",
+        "develop": "gatsby develop",
+        "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+        "start": "npm run develop",
+        "serve": "gatsby serve",
+        "clean": "gatsby clean",
+        "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    },
+    "dependencies": {
+        "gatsby": "^3.13.1",
+        "gatsby-image": "^3.11.0",
+        "gatsby-plugin-manifest": "^3.13.0",
+        "gatsby-plugin-offline": "^4.13.0",
+        "gatsby-plugin-react-helmet": "^4.13.0",
+        "gatsby-plugin-sharp": "^3.13.0",
+        "gatsby-plugin-resolve-src": "^2.1.0",
+        "gatsby-plugin-meta-redirect": "^1.1.1",
+        "gatsby-source-filesystem": "^3.13.0",
+        "gatsby-transformer-sharp": "^3.13.0",
+        "gatsby-plugin-styled-components": "^4.13.0",
+        "babel-plugin-styled-components": "^1.10.7",
+        "react-helmet": "^6.1.0",
+        "@gatsbyjs/reach-router": "^1.3.6",
+        "gatsby-react-router-scroll": "^4.13.0",
+        "@quarkly/community-kit": "0.0.87",
+        "gatsby-plugin-sitemap": "^4.1.0",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "@quarkly/widgets": "0.2.75",
+        "@quarkly/components": "0.2.75",
+        "@quarkly/atomize": "1.0.20",
+        "styled-components": "^5.0.1",
+        "react-router-dom": "^5.1.2",
+        "react-router-hash-link": "^1.2.2",
+        "react-icons": "^3.9.0"
+    },
+    "devDependencies": {
+        "postcss": "^8.3.5",
+        "prettier": "2.0.5",
+        "cross-env": "^7.0.3"
+    },
+    "quarklyMeta": {
+        "projectUid": "66952c4ff0cb1d0025f7240d",
+        "type": "gatsby"
+    },
+    "version": "0.1.0",
+    "private": true
+}
